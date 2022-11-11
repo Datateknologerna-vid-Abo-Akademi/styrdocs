@@ -1,12 +1,10 @@
-## ARBETSORDNING FÖR DATATEKNOLOGERNA VID ÅBO AKADEMI RF, VERSION 2.
+# ARBETSORDNING FÖR DATATEKNOLOGERNA VID ÅBO AKADEMI RF, VERSION 2.
 
-```
 (justerad 22 november 2019)
 (justerad 13 november 2020)
-```
-```
-KAPITEL I – ALLMÄNNA BESTÄMMELSER
-```
+
+## KAPITEL I – ALLMÄNNA BESTÄMMELSER
+
 **§ 1 Arbetsordningen**
 
 Föreningens verksamhet är reglerad av föreningslagen, föreningens stadgar och denna
@@ -46,15 +44,11 @@ Utöver de ärenden, som enligt stadgarna behandlas på ordinarie möten, ska f�
 anförtros dessa möten:
 
 - Uppdragande av huvudlinjerna för föreningens verksamhet
-
-# - beslut om större anskaffningar
-
+- beslut om större anskaffningar
 - ärenden, som av styrelsen hänskjutits till ordinarie möte
-
-# - av föregående möte hänskjutna ärenden
+- av föregående möte hänskjutna ärenden
 
 **§ 5 Rösträtt och jävighet**
-
 
 Röster måste avges personligen. Rösträtt utövas inte genom fullmakt, ombud eller
 förhandsröstning.
@@ -104,12 +98,8 @@ Styrelseordförande åligger att
 
 - sammankalla och leda ordinarie och extra möten
 - övervaka att samtliga funktionärer och medlemmar fullgör sina uppgifter
-
-# - övervaka att beslut verkställs
-
-
-# - sköta kontakter utanför föreningen
-
+- övervaka att beslut verkställs
+- sköta kontakter utanför föreningen
 - fungera som medlem i Axel och Stinas Gamylers styrelse (AIR)
 
 **§ 12 Viceordförande**
@@ -118,44 +108,34 @@ Viceordförande åligger att
 
 - bistå styrelseordföranden och då denna har förhinder träda i hans ställe
 - organiserar en xqr^2 på vår- eller höstterminen
-
-# - sköter högskolepolitiska ärenden samt kan fungera som representant i
-
+- sköter högskolepolitiska ärenden samt kan fungera som representant i
 Teknologkomissionen.
+
 **§ 13 Sekreterare**
 
 Sekreteraren åligger att
 
-# - föra protokoll vid möten
-
-# - sammanställa årsberättelsen till vårmötet
-
-# - sköta föreningens korrespondens
-
+- föra protokoll vid möten
+- sammanställa årsberättelsen till vårmötet
+- sköta föreningens korrespondens
 - sköta föreningens interna och externa informationsverksamhet, såsom veckomejl
 
 **§ 14 Skattmästare**
 
 Skattmästaren åligger att
 
-# - sköta föreningens ekonomi
-
-# - indriva medlemsavgifterna
-
-# - sammanställa budgeten
-
+- sköta föreningens ekonomi
+- indriva medlemsavgifterna
+- sammanställa budgeten
 - skriva bokslutet tillsammans med vice ordföranden
 
 **§ 15 Värd / värdinna**
 
 Värden / värdinnan åligger att
 
-- sköta logistiska frågor förknippade med fester och tillställningar, i nära samverkan
-    med programchefen och skattmästaren
-- ansvara för renheten av kansliets matredskap inklusive mikro, kylskåp och frys, samt
-    föreningens grill
-- sköta om påfyllning av kaffeförrådet, samt påfyllning av innehållet i frysen och
-    kylskåpet
+- sköta logistiska frågor förknippade med fester och tillställningar, i nära samverkan med programchefen och skattmästaren
+- ansvara för renheten av kansliets matredskap inklusive mikro, kylskåp och frys, samt föreningens grill
+- sköta om påfyllning av kaffeförrådet, samt påfyllning av innehållet i frysen och kylskåpet
 
 **§ 16 Programchef**
 
@@ -165,7 +145,6 @@ Programchefen åligger att
 - hålla aktiv kontakt med andra föreningar i ärenden gällande evenemang
 - sköta hemsidans evenemang och anmälningar
 - ansvara över programutskottet
--
 
 **§ 17 Näbbansvarig**
 
@@ -175,7 +154,6 @@ Näbbansvarige åligger att
 - hjälpa de övriga styrelsemedlemmarna
 - ansvara över tentarkivet
 - bedriva tutorverksamhet
-
 
 **§ 18 Företagsförhållandeansvarig**
 
@@ -193,9 +171,8 @@ formuleras föreningens strävanden på lång sikt.
 
 Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen för följande år.
 
-```
-KAPITEL VI – FUNKTIONÄRER OCH KOMMITTÉER
-```
+## KAPITEL VI – FUNKTIONÄRER OCH KOMMITTÉER
+
 **§ 20 Revisorer eller verksamhetsgranskare och deras suppleanter**
 
 Revisorernas eller verksamhetsgranskarnas uppgift framgår ur föreningslagen.
@@ -222,96 +199,68 @@ föreningskontaktperson.
 
 **§ 25 Albins Angels Matriarkat**
 
-```
-Sammansättning
+**Sammansättning**
 Höstmötet tillsätter Albins Angels Matriarker för följande år. Sammansättningen
 består av en (1) eller två (2) Matriarker.
-```
-```
-Uppgift
-```
 
-```
+**Uppgift**
 Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
 regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
-```
+
 **§ 26 DaTe Idrotts Club/Klubb**
 
-```
-Sammansättning
+**Sammansättning**
 Höstmötet tillsätter minst tre (3) D.I.C/K ansvariga.
-```
-```
-Uppgift
+
+**Uppgift**
 De ansvarigas uppgift är att upprätthålla idrottsverksamhet inom DaTe.
-```
+
 **§ 27 Vaalkommittén**
 
-```
-Sammansättning
-```
-```
+**Sammansättning**
 Höstmötet tillsätter en vaalkommitté för följande år. Vaalkommittén består av två (2)
 ordinarie medlemmar, till dessa föreslås årets samt förra årets gulisansvariga.
-```
-```
-Uppgift
-```
-```
+
+**Uppgift**
 Vaalkommitténs uppgift är att innan höstmötet hitta goda kandidater för föreningens
 alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
 som ordinarie medlemmar.
-```
+
 **§ 28 CommodoreuZkottet**
 
-```
-Sammansättning
-```
-```
+**Sammansättning**
 Höstmötet tillsätter ett CommodoreuZkott för följande år. CommodoreuZkottet består
 av minst fyra (4) festcommodorer samt en ordförande. Avgående styrelsens
 medlemmar föreslås fylla CommodoreuZkottets poster.
-```
-```
-Uppgift
-```
-```
+
+**Uppgift**
 CommodoreuZkottets uppgift är att planera och organisera nästa årsfest, samt
 tillhörande sillfrukost.
-```
+
 **§ 29 Programutskottet**
 
-```
-Sammansättning
-```
-```
+**Sammansättning**
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
 Programchefen samt två (2) till tre (3) medlemmar (Programmerare).
-```
-```
-Uppgift
-```
-```
+
+**Uppgift**
 Programutskottets uppgift är att ordna program för föreningens medlemmar.
 Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
-```
+
 **§ 30 TiTeenitansvarig**
 
-
-```
-Sammansättning
+**Sammansättning**
 En TiTeenitansvarig kan väljas under vårmötet.
-Uppgift
+
+**Uppgift**
 DaTes TiTeenitansvarige sammansätter en arbetsgrupp och planerar nästa års
 TiTeenien taistot tillsammans med Digits TiTeenitansvarige ifall TiTeenit ordnas i Åbo
 följande år. Annars koordinerar TiTeenitansvarige tillsammans med Digits
 TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
 har ordnats.
-```
+
 ## KAPITEL VII – ANSLAGSTAVLOR
 
 **§ 30 Föreningens anslagstavlor**
 
 Föreningens anslagstavla finns på hemsidan.
-
-
