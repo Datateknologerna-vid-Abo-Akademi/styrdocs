@@ -34,26 +34,31 @@ avläggande av teknologiekandidat- eller diplomingenjörsexamen vid Åbo Akademi
 På basen av motiverad ansökan beviljas annan studerande vid Åbo Akademi. Ordinarie medlemmar äger
 följande rättigheter:
 
-● att rösta på föreningens möten
-● att delta i föreningens verksamhet
-● att anta förtroendeuppdrag inom föreningen
-● att utnyttja föreningens egendom enligt för ifrågavarande egendom givna föreskrifter eller direktiv
-● att representera föreningen utåt på samtycke av styrelsen
+* att rösta på föreningens möten
+* att delta i föreningens verksamhet
+* att anta förtroendeuppdrag inom föreningen
+* att utnyttja föreningens egendom enligt för ifrågavarande egendom givna föreskrifter eller direktiv
+* att representera föreningen utåt på samtycke av styrelsen
+
 Ordinarie medlemmar har följande skyldigheter:
-● att betala en årsavgift, vars storlek fastställs på vårmötet
-● att i föreningens namn uppträda klanderfritt
+
+* att betala en årsavgift, vars storlek fastställs på vårmötet
+* att i föreningens namn uppträda klanderfritt
 
 **§ 4 Seniormedlemmar**
 
 Föreningens möte kan till seniormedlem godkänna ordinarie medlem, som avlagt examen i datateknik vid Åbo
 Akademi och som samtycker.
+
 Seniormedlemmar äger följande rättigheter:
 
-● att delta i föreningens verksamhet
-● yttranderätt men varken förslags- eller rösträtt på föreningens möten
-● att utnyttja föreningens egendom enligt för ifrågavarande egendom givna föreskrifter eller direktiv
+* att delta i föreningens verksamhet
+* yttranderätt men varken förslags- eller rösträtt på föreningens möten
+* att utnyttja föreningens egendom enligt för ifrågavarande egendom givna föreskrifter eller direktiv
+
 Seniormedlemmar har följande skyldighet:
-● att betala en engångsavgift årsavgift, vars storlek fastställs på medlemsmöte föreningens vårmöte
+
+* att betala en engångsavgift årsavgift, vars storlek fastställs på medlemsmöte föreningens vårmöte
 
 **§ 5 Hedersmedlemmar**
 
@@ -66,12 +71,13 @@ Hedersmedlemmar betalar ingen årsavgift, men äger samma rättigheter och förm
 
 Envar som är intresserad av föreningens verksamhet kan på skriftlig ansökan till styrelsen ansluta sig till
 föreningen som stödjande medlem. Styrelsen besluter om godkännandet av stödjande medlemmar.
+
 Stödjande medlemmar äger följande rättigheter:
 
-● att delta i föreningens verksamhet
-● yttranderätt men varken förslags- eller rösträtt på föreningens möten
+* att delta i föreningens verksamhet
+* yttranderätt men varken förslags- eller rösträtt på föreningens möten
 Stödjande medlemmar har följande skyldighet:
-● att betala en årsavgift, vars storlek fastställs på vårmötet
+* att betala en årsavgift, vars storlek fastställs på vårmötet
 
 **§ 7 Utträde och uteslutning av en medlem ur föreningen**
 
@@ -109,18 +115,20 @@ används post.
 Styrelsen är beslutför när ordförande eller viceordförande samt minst hälften av dess övriga medlemmar är
 närvarande. Omröstningarna avgörs med enkel majoritet. Om rösterna faller jämnt avgör ordförandens röst, vid
 personval avgör lotten.
+
 Styrelsen åligger att
 
-● leda och organisera föreningens verksamhet
-● förbereda och sammankalla föreningens möten
-● verkställa samtliga mötesbeslut
-● handha föreningens ekonomi och egendom
-● avgöra ärenden, som enligt stadgarna eller arbetsordningen ankommer styrelsen, och ärenden som
+* leda och organisera föreningens verksamhet
+* förbereda och sammankalla föreningens möten
+* verkställa samtliga mötesbeslut
+* handha föreningens ekonomi och egendom
+* avgöra ärenden, som enligt stadgarna eller arbetsordningen ankommer styrelsen, och ärenden som
 föreningens möte befullmäktigat styrelsen att avgöra
-● till vårmötet inlämna årsberättelse, bokslut och inventarieförteckning
-● övervaka allt som genomförs i föreningens namn
-● under sin mandattid upprätthålla, utveckla samt i all verksamhet beakta framtidsplanen, som beskrivs i
+* till vårmötet inlämna årsberättelse, bokslut och inventarieförteckning
+* övervaka allt som genomförs i föreningens namn
+* under sin mandattid upprätthålla, utveckla samt i all verksamhet beakta framtidsplanen, som beskrivs i
 arbetsordningen
+
 ## KAPITEL IV - RÄKENSKAP OCH REVISION
 
 **§ 11 Räkenskapsperiod**
@@ -200,6 +208,7 @@ Vid föreningens höstmöte behandlas följande ärenden:
 skriftligen meddela detta till styrelsen senast tio dagar före mötet. )
 
 ## KAPITEL VI – KURATOR
+
 **§ 18 Val av kurator**
 
 Föreningens kurator väljes bland personer som vunnit lärd grad och har koppling till Åbo Akademi.
@@ -220,11 +229,12 @@ inför det organ som tillsatt dem.
 
 Vid tillsättande av kommitté eller arbetsgrupp besluts åtminstone om:
 
-● ordförande
-● sammansättning
-● uppgift
-● befogenheter
-● verksamhetsperiod eller mandattid
+* ordförande
+* sammansättning
+* uppgift
+* befogenheter
+* verksamhetsperiod eller mandattid
+
 ## KAPITEL VII - STIPENDIER OCH UTMÄRKELSER
 
 **§22 Utdelning av stipendier och utmärkelser**
