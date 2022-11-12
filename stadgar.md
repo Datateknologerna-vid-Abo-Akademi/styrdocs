@@ -1,10 +1,15 @@
 # Datateknologerna vid Åbo Akademi rf stadgar
 
 Antagna på föreningens grundlande möte den 24 augusti 1999
+
 (ändrade på föreningens höstmötet 18.11.2005)
+
 (godkändes på föreningens höstmöte 24.11.2010)
+
 (ändrade och godkändes på föreningens höstmöte 11.11.2015)
+
 (ändrade och godkändes på föreningens vårmöte 24.4.2020)
+
 (ändrade och godkändes på föreningens vårmöte 26.03.2021)
 
 ## KAPITEL I - FÖRENINGEN
