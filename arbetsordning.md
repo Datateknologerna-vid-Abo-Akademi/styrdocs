@@ -200,28 +200,34 @@ föreningskontaktperson.
 **§ 25 Albins Angels Matriarkat**
 
 **Sammansättning**
+
 Höstmötet tillsätter Albins Angels Matriarker för följande år. Sammansättningen
 består av en (1) eller två (2) Matriarker.
 
 **Uppgift**
+
 Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
 regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
 
 **§ 26 DaTe Idrotts Club/Klubb**
 
 **Sammansättning**
+
 Höstmötet tillsätter minst tre (3) D.I.C/K ansvariga.
 
 **Uppgift**
+
 De ansvarigas uppgift är att upprätthålla idrottsverksamhet inom DaTe.
 
 **§ 27 Vaalkommittén**
 
 **Sammansättning**
+
 Höstmötet tillsätter en vaalkommitté för följande år. Vaalkommittén består av två (2)
 ordinarie medlemmar, till dessa föreslås årets samt förra årets gulisansvariga.
 
 **Uppgift**
+
 Vaalkommitténs uppgift är att innan höstmötet hitta goda kandidater för föreningens
 alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
 som ordinarie medlemmar.
@@ -229,30 +235,36 @@ som ordinarie medlemmar.
 **§ 28 CommodoreuZkottet**
 
 **Sammansättning**
+
 Höstmötet tillsätter ett CommodoreuZkott för följande år. CommodoreuZkottet består
 av minst fyra (4) festcommodorer samt en ordförande. Avgående styrelsens
 medlemmar föreslås fylla CommodoreuZkottets poster.
 
 **Uppgift**
+
 CommodoreuZkottets uppgift är att planera och organisera nästa årsfest, samt
 tillhörande sillfrukost.
 
 **§ 29 Programutskottet**
 
 **Sammansättning**
+
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
 Programchefen samt två (2) till tre (3) medlemmar (Programmerare).
 
 **Uppgift**
+
 Programutskottets uppgift är att ordna program för föreningens medlemmar.
 Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
 
 **§ 30 TiTeenitansvarig**
 
 **Sammansättning**
+
 En TiTeenitansvarig kan väljas under vårmötet.
 
 **Uppgift**
+
 DaTes TiTeenitansvarige sammansätter en arbetsgrupp och planerar nästa års
 TiTeenien taistot tillsammans med Digits TiTeenitansvarige ifall TiTeenit ordnas i Åbo
 följande år. Annars koordinerar TiTeenitansvarige tillsammans med Digits
