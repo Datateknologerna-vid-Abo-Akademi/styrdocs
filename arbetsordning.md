@@ -173,71 +173,27 @@ Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen fö
 
 ## KAPITEL VI – FUNKTIONÄRER OCH KOMMITTÉER
 
-**§ 20 Revisorer eller verksamhetsgranskare och deras suppleanter**
-
-Revisorernas eller verksamhetsgranskarnas uppgift framgår ur föreningslagen.
-
-**§ 21 Fotografiant**
-
-Fotografianten/fotografiantarna fotograferar föreningens aktiviteter samt scannar bilder till
-föreningens digitala bildarkiv och skriver bildtexter.
-
-**§ 22 Sångledare**
-
-Sångledarna leder sången under föreningens middagar och andra evenemang.
-
-**§ 23 Datörer**
+**§ 20 Datörer**
 
 **Sammansättning**
 Höstmötet tillsätter Datörer för följande år. Sammansättningen består av en (1) Kernel
-(ordförande) samt fyra (4) - tio (10) komponenter (medlemmar).
+(ordförande) samt fyra (4) till åtta (8) komponenter (medlemmar).
 
 **Uppgift**
 Datörerna ansvarar för föreningens datautrustning. Samt administrerar föreningens servrar
 och hemsidor.
 
-**§ 24 Representanter**
-
-Datateknologerna har representanter i Teknologkommissionen, TFiF:s Åboavdelningens
-styrelse, De Yngres Råd (DYR) och FiTech. En (1) person utses som TFiF-TEK
-föreningskontaktperson.
-
-**§ 25 Albins Angels Matriarkat**
+**§ 21 DaTe Idrotts Club/Klubb**
 
 **Sammansättning**
 
-Höstmötet tillsätter Albins Angels Matriarker för följande år. Sammansättningen
-består av en (1) eller två (2) Matriarker.
-
-**Uppgift**
-
-Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
-regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
-
-**§ 26 DaTe Idrotts Club/Klubb**
-
-**Sammansättning**
-
-Höstmötet tillsätter minst tre (3) D.I.C/K ansvariga.
+Höstmötet tillsätter minst tre (3) D.I.C/K ansvariga samt en ordförande.
 
 **Uppgift**
 
 De ansvarigas uppgift är att upprätthålla idrottsverksamhet inom DaTe.
 
-**§ 27 Vaalkommittén**
-
-**Sammansättning**
-
-Höstmötet tillsätter en vaalkommitté för följande år. Vaalkommittén består av två (2)
-ordinarie medlemmar, till dessa föreslås årets samt förra årets gulisansvariga.
-
-**Uppgift**
-
-Vaalkommitténs uppgift är att innan höstmötet hitta goda kandidater för föreningens
-alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
-som ordinarie medlemmar.
-
-**§ 28 CommodoreuZkottet**
+**§ 22 CommodoreuZkottet**
 
 **Sammansättning**
 
@@ -250,12 +206,12 @@ medlemmar föreslås fylla CommodoreuZkottets poster.
 CommodoreuZkottets uppgift är att planera och organisera nästa årsfest, samt
 tillhörande sillfrukost.
 
-**§ 29 Programutskottet**
+**§ 23 Programutskottet**
 
 **Sammansättning**
 
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
-Programchefen samt två (2) till tre (3) medlemmar (Programmerare).
+Programchefen (ordförande) samt två (2) till tre (3) medlemmar (Programmerare).
 
 **Uppgift**
 
@@ -263,50 +219,13 @@ Programutskottets uppgift är att ordna program för föreningens medlemmar.
 Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
 Programutskottet hjälper också vice-ordförande att ordna excursion.
 
-**§ 30 TiTeenitansvarig**
-
-**Sammansättning**
-
-En TiTeenitansvarig kan väljas under vårmötet.
-
-**Uppgift**
-
-DaTes TiTeenitansvarige sammansätter en arbetsgrupp och planerar nästa års
-TiTeenien taistot tillsammans med Digits TiTeenitansvarige ifall TiTeenit ordnas i Åbo
-följande år. Annars koordinerar TiTeenitansvarige tillsammans med Digits
-TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
-har ordnats.
-
-**§ 31 Vice värdinna**
-**Sammansättning**
-
-Vårmötet tillsätter en Vice värdinna för året 2023.
-
-**Uppgift**
-
-Vice värdinnan hjälper värdinnorna med diverse uppgifter som förekommer under
-styrelseåret. Vice värdinnan kan vikariera en värdinna också om en av värdinnorna inte
-kan delta på ett evenemang som kräver värdinnor.
-
-**§ 32 Idrottsminister**
-
-**Sammansättning**
-
-Höstmötet tillsätter en idrottsminister för följande verksamhetsår.
-Uppgift
-
-Idrottsministern är huvudansvarig för att informera styrelsen och medlemmarna om
-motionsverksamhet för ämnesföreningens medlemmar. Idrottsministern skall också
-söka in till den nuvarande aktuella sportklubben för Datateknologerna vid Åbo
-Akademi rf.
-
-**§ 33 Projektgruppen**
+**§ 24 Projektgruppen**
 
 **Sammansättning**
 
 Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
 januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
-består av sittande Viceordförande samt två (2) till sju (7) medlemmar (Pruppar).
+består av sittande Viceordförande (ordförande) samt två (2) till sju (7) medlemmar (Pruppar).
 
 **Uppgift**
 
@@ -314,8 +233,81 @@ Projektutskottets uppgift är att utveckla och utföra projektverksamhet som sty
 eller ett medlemsmöte godkänner. Projektutskottet förväntas hjälpa
 Företagsförhållandeansvarige ordna exkursioner.
 
+**§ 25 Till övriga funktionärer hör följande**
+
+1. **Revisorer eller verksamhetsgranskare och deras suppleanter**
+**Sammansättning**
+Höstmötet tillsätter två (2) revisorer eller verksamhetsgranskare samt två (2) suppleanter för följande verksamhetsår.
+**Uppgift**
+Revisorernas eller verksamhetsgranskarnas uppgift framgår ur föreningslagen.
+
+2. **Sångledare**
+**Sammansättning**
+Höstmötet tillsätter två (2) till sex (6) sångledare för följande verksamhetsår.
+**Uppgift**
+Sångledarna leder sången under föreningens middagar och andra evenemang.
+
+3. **Fotografiant**
+**Sammansättning**
+Höstmötet tillsätter två (2) till fyra (4) fotografianter för följande verksamhetsår.
+**Uppgift**
+Fotografiantarna fotograferar föreningens aktiviteter samt scannar bilder till
+föreningens digitala bildarkiv och skriver bildtexter.
+
+4. **Idrottsminister**
+**Sammansättning**
+Höstmötet tillsätter en (1) idrottsminister för följande verksamhetsår.
+**Uppgift**
+Idrottsministern är huvudansvarig för att informera styrelsen och medlemmarna om
+motionsverksamhet för ämnesföreningens medlemmar. Idrottsministern skall också
+söka in till den nuvarande aktuella sportklubben för Datateknologerna vid Åbo
+Akademi rf.
+
+5. **Vice värdinna**
+**Sammansättning**
+Höstmötet tillsätter en Vice värdinna för följande verksamhetsår.
+**Uppgift**
+Vice värdinnan hjälper värdinnorna med diverse uppgifter som förekommer under
+styrelseåret. Vice värdinnan kan vikariera en värdinna också om en av värdinnorna inte
+kan delta på ett evenemang som kräver värdinnor.
+
+6. **TiTeenitansvarig**
+**Sammansättning**
+En TiTeenitansvarig kan väljas under vårmötet.
+**Uppgift**
+DaTes TiTeenitansvarige sammansätter en arbetsgrupp och planerar nästa års
+TiTeenien taistot tillsammans med Digits TiTeenitansvarige ifall TiTeenit ordnas i Åbo
+följande år. Annars koordinerar TiTeenitansvarige tillsammans med Digits
+TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
+har ordnats.
+
+7. **Albins Angels Matriarkat**
+**Sammansättning**
+Höstmötet tillsätter Albins Angels Matriarker för följande år. Sammansättningen
+består av en (1) eller två (2) Matriarker.
+**Uppgift**
+Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
+regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
+
+8. **Vaalkommittén**
+**Sammansättning**
+Höstmötet tillsätter en vaalkommitté för följande år. Vaalkommittén består av två (2)
+ordinarie medlemmar.
+**Uppgift**
+Vaalkommitténs uppgift är att innan höstmötet hitta goda kandidater för föreningens
+alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
+som ordinarie medlemmar.
+
+9. **Representanter**
+**Sammansättning**
+Höstmötet tillsätter fölande representanter för följande verksamhetsår.
+En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech och en (1) person utses som TFiF-TEK föreningskontaktperson.
+**Uppgift**
+Representanternas uppgift är att representera Datateknologerna samt utföra arbetet i den valda upgiften. 
+
+
 ## KAPITEL VII – ANSLAGSTAVLOR
 
-**§ 34 Föreningens anslagstavlor**
+**§ 26 Föreningens anslagstavlor**
 
 Föreningens anslagstavla finns på hemsidan.
