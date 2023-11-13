@@ -28,6 +28,7 @@ Att vara en dynamisk, inkluderande och aktiv förening som stöder föreningens 
 
 ### Kortsiktiga Åtgärder (1 år)
 - Bygg upp en egen företagsmässa och förstärk företagssamarbete.
+- Förbättra dokumentationen av föreningens verksamhet i olika former.
 
 ### Mellansiktiga Åtgärder (2-3 år)
 - Utöka storleken på föreningens företagsmässa.
