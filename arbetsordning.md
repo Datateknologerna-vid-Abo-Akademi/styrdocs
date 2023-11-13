@@ -344,13 +344,13 @@ Företagsförhållandeansvarige ordna exkursioner.
 
 11. **Albins Software & Services**
 
-   **Sammansättning**
+    **Sammansättning**
 
     Höstmötet tillsätter en (1) eller två (2) Albins Software & Services för följande verksamhetsår.
 
-    **Uppgift**
+    **Upggift**
 
-    Ser till att Albin fungerar och ansvarar för eventuella reparationer.
+    Ser till att Albin fungerar och ansvarar för eventuella reparationer
 
 
 ## KAPITEL VII – ANSLAGSTAVLOR
