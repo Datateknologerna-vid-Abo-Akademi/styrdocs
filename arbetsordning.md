@@ -177,10 +177,12 @@ Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen fö
 **§ 20 Datörer**
 
 **Sammansättning**
+
 Höstmötet tillsätter Datörer för följande år. Sammansättningen består av en (1) Kernel
 (ordförande) samt fyra (4) till åtta (8) komponenter (medlemmar).
 
 **Uppgift**
+
 Datörerna ansvarar för föreningens datautrustning. Samt administrerar föreningens servrar
 och hemsidor.
 
