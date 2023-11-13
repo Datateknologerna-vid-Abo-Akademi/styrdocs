@@ -2,6 +2,7 @@
 
 (justerad 22 november 2019)
 (justerad 13 november 2020)
+(justerad 13 november 2023)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -183,11 +184,11 @@ Höstmötet tillsätter Datörer för följande år. Sammansättningen består a
 Datörerna ansvarar för föreningens datautrustning. Samt administrerar föreningens servrar
 och hemsidor.
 
-**§ 21 DaTe Idrotts Club/Klubb**
+**§ 21 DaTe Idrotts Klubb**
 
 **Sammansättning**
 
-Höstmötet tillsätter minst tre (3) D.I.C/K ansvariga samt en ordförande.
+Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (idrottsminister).
 
 **Uppgift**
 
@@ -339,7 +340,17 @@ Företagsförhållandeansvarige ordna exkursioner.
 
     **Uppgift**
 
-    Representanternas uppgift är att representera Datateknologerna samt utföra arbetet i den valda upgiften. 
+    Representanternas uppgift är att representera Datateknologerna samt utföra arbetet i den valda upgiften.
+
+11. **Albins Software & Services**
+
+   **Sammansättning**
+
+    Höstmötet tillsätter en (1) eller två (2) Albins Software & Services för följande verksamhetsår.
+
+    **Uppgift**
+
+    Ser till att Albin fungerar och ansvarar för eventuella reparationer.
 
 
 ## KAPITEL VII – ANSLAGSTAVLOR
