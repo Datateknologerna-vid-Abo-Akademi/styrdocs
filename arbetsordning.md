@@ -282,17 +282,20 @@ Företagsförhållandeansvarige ordna exkursioner.
 5. **Vice värdinna**
 
     **Sammansättning**
-    Höstmötet tillsätter en Vice värdinna för följande verksamhetsår.
+   
+    Höstmötet kan tillsätta en (1) Vice värdinna för följande verksamhetsår.
+   
     **Uppgift**
+   
     Vice värdinnan hjälper värdinnorna med diverse uppgifter som förekommer under
     styrelseåret. Vice värdinnan kan vikariera en värdinna också om en av värdinnorna inte
     kan delta på ett evenemang som kräver värdinnor.
 
-6. **TiTeenitansvarig**
+7. **TiTeenitansvarig**
 
     **Sammansättning**
 
-    En TiTeenitansvarig kan väljas under vårmötet.
+   Vårmötet kan tillsätta en (1) TiTeenitansvarig för följande verksamhetsår.
 
     **Uppgift**
 
@@ -302,7 +305,7 @@ Företagsförhållandeansvarige ordna exkursioner.
     TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
     har ordnats.
 
-7. **Albins Angels Matriarkat**
+8. **Albins Angels Matriarkat**
 
     **Sammansättning**
     
@@ -314,7 +317,7 @@ Företagsförhållandeansvarige ordna exkursioner.
     Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
     regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
 
-8. **Vaalkommittén**
+9. **Vaalkommittén**
 
     **Sammansättning**
     
@@ -327,7 +330,7 @@ Företagsförhållandeansvarige ordna exkursioner.
     alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
     som ordinarie medlemmar.
 
-9. **Representanter**
+10. **Representanter**
 
     **Sammansättning**
 
