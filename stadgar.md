@@ -69,7 +69,7 @@ Seniormedlemmar har följande skyldighet:
 
 Till hedersmedlem kan på förslag av styrelsen kallas en person, som synnerligen handlat föreningens syften och
 strävanden till fromma.
-Om hedersmedlemskallande besluter föreningens höst- eller vårmöte med 3/4 majoritet av avgivna röster.
+Om hedersmedlemskallande besluter föreningens medlemsmöte med 3/4 majoritet av avgivna röster.
 Hedersmedlemmar betalar ingen årsavgift, men äger samma rättigheter och förmåner som seniormedlemmar.
 
 **§ 6 Stödjande medlemmar**
