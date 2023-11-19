@@ -223,7 +223,7 @@ Programchefen (ordförande) samt två (2) till sex (6) medlemmar (Programmerare)
 
 Programutskottets uppgift är att ordna program för föreningens medlemmar.
 Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
-Till programutskottets uppgifter hör även att hjälpa till vid behov i organiserande av föreningens större evenemang såsom företagsmässor, årsfester och liknande.
+Till programutskottets uppgifter hör även att vid behov assistera i organiserande av föreningens större evenemang såsom företagsmässor, årsfester eller liknande.
 
 **§ 24 Projektgruppen**
 
