@@ -217,7 +217,7 @@ tillhörande sillfrukost.
 **Sammansättning**
 
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
-Programchefen (ordförande) samt två (2) till tre (3) medlemmar (Programmerare).
+Programchefen (ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
 
 **Uppgift**
 
