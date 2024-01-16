@@ -111,6 +111,7 @@ Viceordförande åligger att
 - organiserar en xqr^2 på vår- eller höstterminen
 - sköter högskolepolitiska ärenden samt kan fungera som representant i
 Teknologkomissionen.
+- delta i ordnandet av föreningens företagsmässa.
 
 **§ 13 Sekreterare**
 
@@ -158,10 +159,12 @@ Näbbansvarige åligger att
 
 **§ 18 Företagsförhållandeansvarig**
 
-- Företagsförhållandeansvarig åligger att
+Företagsförhållandeansvarig åligger att
+
 - sköta om kontakten med företag
 - upprätthålla och sälja sponspaket
 - beställa halarna
+- delta i ordnandet av föreningens företagsmässa.
 
 ## KAPITEL V – FRAMTIDSPLANEN
 
@@ -214,13 +217,13 @@ tillhörande sillfrukost.
 **Sammansättning**
 
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
-Programchefen (ordförande) samt två (2) till tre (3) medlemmar (Programmerare).
+Programchefen (ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
 
 **Uppgift**
 
 Programutskottets uppgift är att ordna program för föreningens medlemmar.
 Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
-Programutskottet hjälper också vice-ordförande att ordna excursion.
+Till programutskottets uppgifter hör även att vid behov assistera i organiserande av föreningens större evenemang såsom företagsmässor, årsfester eller liknande.
 
 **§ 24 Projektgruppen**
 
@@ -228,13 +231,13 @@ Programutskottet hjälper också vice-ordförande att ordna excursion.
 
 Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
 januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
-består av sittande Viceordförande (ordförande) samt två (2) till sju (7) medlemmar (Pruppar).
+består av sittande Viceordförande (ordförande), Företagsförhållandeansvarig samt två (2) till fem (5) medlemmar (Pruppar).
 
 **Uppgift**
 
 Projektutskottets uppgift är att utveckla och utföra projektverksamhet som styrelsen
 eller ett medlemsmöte godkänner. Projektutskottet förväntas hjälpa
-Företagsförhållandeansvarige ordna exkursioner.
+viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
 
 **§ 25 Till övriga funktionärer hör följande**
 
@@ -338,7 +341,7 @@ Företagsförhållandeansvarige ordna exkursioner.
     **Sammansättning**
 
     Höstmötet tillsätter fölande representanter för följande verksamhetsår.
-    En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech och en (1) person utses som TFiF-TEK föreningskontaktperson.
+    En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech, en (1) till Tietoteekkariyhdistys ry (TTY) och en (1) person utses som TFiF-TEK föreningskontaktperson.
 
     **Uppgift**
 
