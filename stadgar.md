@@ -12,6 +12,8 @@ Antagna på föreningens grundlande möte den 24 augusti 1999
 
 (ändrade och godkändes på föreningens vårmöte 26.03.2021)
 
+(justerade 15.02.2024)
+
 ## KAPITEL I - FÖRENINGEN
 
 **§ 1 Föreningens namn, hemort och officiella språk**
