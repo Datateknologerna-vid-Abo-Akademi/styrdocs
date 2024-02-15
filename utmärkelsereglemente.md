@@ -22,6 +22,6 @@ Halvledarmedaljen instiftades år 2018 av Deprecated, en grupp äldre teknologer
 
 #### § 3 Hedersmedlemspin
 
-I enlighet med föreningens stadgar, kapitel II, paragraf 5, kan föreningen anta hedersmedlemmar. Utöver kallelsen tilldelas hedersmedlemmar vid föreningens följande jubileumsårsfest en utmärkelse i form av en hedersmedlemspin. Denna pin består av Albin omringad av ett kugghjul. Endast personer utnämnda till hedersmedlemmar i föreningen äger rätten att bära denna pin.
+I enlighet med föreningens stadgar, kapitel II, paragraf 6, kan föreningen anta hedersmedlemmar. Utöver kallelsen tilldelas nya hedersmedlemmar vid föreningens följande jubileumsårsfest en utmärkelse i form av en hedersmedlemspin. Denna pin består av Albin omringad av ett kugghjul. Endast personer utnämnda till hedersmedlemmar i föreningen äger rätten att bära denna pin.
 
 ![Symbolen på Hederspinnens åtsida](images/hederspin.png)
