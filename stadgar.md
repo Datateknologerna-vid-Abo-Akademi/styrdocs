@@ -63,7 +63,7 @@ Seniormedlemmar äger följande rättigheter:
 
 Seniormedlemmar har följande skyldighet:
 
-* att betala en engångsavgift årsavgift, vars storlek fastställs på medlemsmöte föreningens vårmöte
+* att betala en årsavgift, vars storlek fastställs på föreningens vårmöte
 
 **§ 5 Hedersmedlemmar**
 
