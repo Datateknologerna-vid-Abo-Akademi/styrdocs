@@ -2,7 +2,7 @@
 Datateknologerna vid Åbo Akademi rf styrande dokument.
 
 **Föreslå ändring?**
-Om du vill föreslå en ändring på något styrande dokument gör en ändring samt en beskrivning och gör pull request på ändringarna. Ändringarna förslaget kommer sedan behandlas av styrelsen och medlemsmöte.
+Om du vill föreslå en ändring på något styrande dokument gör en issue med en beskrivning över ändringarna. Ändringsförslaget kommer sedan först att behandlas av styrelsen och eventuellt sedan medlemsmöte.
 
 Ändrings Förslag PR
 Branch namn exempel: `mm02-arbetsordning-stavfel`
