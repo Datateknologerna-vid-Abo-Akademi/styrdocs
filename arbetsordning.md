@@ -285,17 +285,17 @@ viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
     söka in till den nuvarande aktuella sportklubben för Datateknologerna vid Åbo
     Akademi rf.
 
-5. **Vice värdinna**
+5. **Vice värd / värdinna**
 
     **Sammansättning**
    
-    Höstmötet kan tillsätta en (1) Vice värdinna för följande verksamhetsår.
+    Höstmötet kan tillsätta en (1) vice värd / värdinna för följande verksamhetsår.
    
     **Uppgift**
    
-    Vice värdinnan hjälper värdinnorna med diverse uppgifter som förekommer under
-    styrelseåret. Vice värdinnan kan vikariera en värdinna också om en av värdinnorna inte
-    kan delta på ett evenemang som kräver värdinnor.
+    Vice värden / värdinnan hjälper värden / värdinnorna med diverse uppgifter som förekommer under
+    styrelseåret. Vice värden / värdinnan kan vikariera en värd / värdinna också om en av värdarna / värdinnorna inte
+    kan delta på ett evenemang som kräver värdar / värdinnor.
 
 7. **TiTeenitansvarig**
 
