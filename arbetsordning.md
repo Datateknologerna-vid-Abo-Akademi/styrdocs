@@ -357,6 +357,15 @@ viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
 
     Ser till att Albin fungerar och ansvarar för eventuella reparationer
 
+12. **Högskolepolitiskt Ansvarig**
+
+    **Sammansättning**
+
+    Höstmötet kan tillsätta en (1) Högskolepolitiskt ansvarig för följande verksamhetsår.
+
+    **Uppgift**
+
+    Den högskolepolitiskt ansvarigas uppgift är att bevaka föreningens och dess medlemmars intressen inom frågor angående Åbo Akademis fastigheter, förenings- och studieutrymmen, utbildningslinjens kvalitet samt övriga högskolepolitiska frågor.
 
 ## KAPITEL VII – ANSLAGSTAVLOR
 
