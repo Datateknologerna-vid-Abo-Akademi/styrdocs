@@ -165,7 +165,7 @@ Företagsförhållandeansvarig åligger att
 - sköta om kontakten med företag
 - upprätthålla och sälja sponspaket
 - beställa halarna
-- delta i ordnandet av föreningens företagsmässa.
+- delta i ordnandet av föreningens företagsmässa
 
 ## KAPITEL V – FRAMTIDSPLANEN
 
@@ -183,7 +183,7 @@ Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen fö
 **Sammansättning**
 
 Höstmötet tillsätter Datörer för följande år. Sammansättningen består av en (1) Kernel
-(ordförande) samt fyra (4) till åtta (8) komponenter (medlemmar).
+(Ordförande) samt fyra (4) till åtta (8) komponenter (Medlemmar).
 
 **Uppgift**
 
@@ -194,7 +194,7 @@ och hemsidor.
 
 **Sammansättning**
 
-Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (idrottsminister).
+Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (Idrottsminister).
 
 **Uppgift**
 
@@ -218,7 +218,7 @@ tillhörande sillfrukost.
 **Sammansättning**
 
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
-Programchefen (ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
+programchefen (Ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
 
 **Uppgift**
 
@@ -232,7 +232,7 @@ Till programutskottets uppgifter hör även att vid behov assistera i organisera
 
 Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
 januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
-består av sittande vice ordförande (Ordförande), företagsförhållandeansvarig samt två (2) till fem (5) medlemmar (Pruppar).
+består av sittande vice ordföranden (Ordförande), företagsförhållandeansvarige samt två (2) till fem (5) medlemmar (Pruppar).
 
 **Uppgift**
 
