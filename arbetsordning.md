@@ -110,9 +110,9 @@ Vice ordförande åligger att
 
 - bistå styrelseordföranden och då denna har förhinder träda i hans ställe
 - organiserar en xqr^2 på vår- eller höstterminen
-- sköter högskolepolitiska ärenden samt kan fungera som representant i
-Teknologkomissionen.
-- delta i ordnandet av föreningens företagsmässa.
+- vid behov sköta högskolepolitiska ärenden, ifall ingen Högskolepolitiskt ansvarig väljs
+- vid behov fungera som representant i Teknologkomissionen
+- delta i ordnandet av föreningens företagsmässa
 
 **§ 13 Sekreterare**
 
