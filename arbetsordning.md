@@ -80,7 +80,7 @@ mötesordföranden.
 
 **§ 8 Sammansättning**
 
-Styrelsen består av ordförande, viceordförande, sekreterare, skattmästare, värd/värdinna,
+Styrelsen består av ordförande, vice ordförande, sekreterare, skattmästare, värd/värdinna,
 programchef, näbbansvarig och företagsförhållandeansvarig.
 
 **§ 9 Protokoll**
@@ -104,9 +104,9 @@ Styrelseordförande åligger att
 - sköta kontakter utanför föreningen
 - fungera som medlem i Axel och Stinas Gamylers styrelse (AIR)
 
-**§ 12 Viceordförande**
+**§ 12 Vice ordförande**
 
-Viceordförande åligger att
+Vice ordförande åligger att
 
 - bistå styrelseordföranden och då denna har förhinder träda i hans ställe
 - organiserar en xqr^2 på vår- eller höstterminen
@@ -232,13 +232,13 @@ Till programutskottets uppgifter hör även att vid behov assistera i organisera
 
 Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
 januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
-består av sittande Viceordförande (ordförande), Företagsförhållandeansvarig samt två (2) till fem (5) medlemmar (Pruppar).
+består av sittande vice ordförande (Ordförande), företagsförhållandeansvarig samt två (2) till fem (5) medlemmar (Pruppar).
 
 **Uppgift**
 
 Projektutskottets uppgift är att utveckla och utföra projektverksamhet som styrelsen
 eller ett medlemsmöte godkänner. Projektutskottet förväntas hjälpa
-viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
+vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
 **§ 25 Till övriga funktionärer hör följande**
 
