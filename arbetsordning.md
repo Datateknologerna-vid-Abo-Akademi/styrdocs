@@ -3,6 +3,7 @@
 (justerad 22 november 2019)
 (justerad 13 november 2020)
 (justerad 13 november 2023)
+(justerad 10 april 2024)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -79,7 +80,7 @@ mötesordföranden.
 
 **§ 8 Sammansättning**
 
-Styrelsen består av ordförande, viceordförande, sekreterare, skattmästare, värd/värdinna,
+Styrelsen består av ordförande, vice ordförande, sekreterare, skattmästare, värd/värdinna,
 programchef, näbbansvarig och företagsförhållandeansvarig.
 
 **§ 9 Protokoll**
@@ -103,15 +104,15 @@ Styrelseordförande åligger att
 - sköta kontakter utanför föreningen
 - fungera som medlem i Axel och Stinas Gamylers styrelse (AIR)
 
-**§ 12 Viceordförande**
+**§ 12 Vice ordförande**
 
-Viceordförande åligger att
+Vice ordförande åligger att
 
 - bistå styrelseordföranden och då denna har förhinder träda i hans ställe
 - organiserar en xqr^2 på vår- eller höstterminen
-- sköter högskolepolitiska ärenden samt kan fungera som representant i
-Teknologkomissionen.
-- delta i ordnandet av föreningens företagsmässa.
+- vid behov sköta högskolepolitiska ärenden, ifall ingen Högskolepolitiskt ansvarig väljs
+- vid behov fungera som representant i Teknologkomissionen
+- delta i ordnandet av föreningens företagsmässa
 
 **§ 13 Sekreterare**
 
@@ -164,7 +165,7 @@ Företagsförhållandeansvarig åligger att
 - sköta om kontakten med företag
 - upprätthålla och sälja sponspaket
 - beställa halarna
-- delta i ordnandet av föreningens företagsmässa.
+- delta i ordnandet av föreningens företagsmässa
 
 ## KAPITEL V – FRAMTIDSPLANEN
 
@@ -182,7 +183,7 @@ Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen fö
 **Sammansättning**
 
 Höstmötet tillsätter Datörer för följande år. Sammansättningen består av en (1) Kernel
-(ordförande) samt fyra (4) till åtta (8) komponenter (medlemmar).
+(Ordförande) samt fyra (4) till åtta (8) komponenter (Medlemmar).
 
 **Uppgift**
 
@@ -193,7 +194,7 @@ och hemsidor.
 
 **Sammansättning**
 
-Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (idrottsminister).
+Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (Idrottsminister).
 
 **Uppgift**
 
@@ -214,7 +215,7 @@ CommodoreuZkottets uppgift är att planera och organisera nästa årsfest banket
 **Sammansättning**
 
 Höstmötet tillsätter ett Programutskott för följande år. Programutskottet består av
-Programchefen (ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
+programchefen (Ordförande) samt två (2) till sex (6) medlemmar (Programmerare).
 
 **Uppgift**
 
@@ -228,13 +229,13 @@ Till programutskottets uppgifter hör även att vid behov assistera i organisera
 
 Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
 januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
-består av sittande Viceordförande (ordförande), Företagsförhållandeansvarig samt två (2) till fem (5) medlemmar (Pruppar).
+består av sittande vice ordföranden (Ordförande), företagsförhållandeansvarige samt två (2) till fem (5) medlemmar (Pruppar).
 
 **Uppgift**
 
 Projektutskottets uppgift är att utveckla och utföra projektverksamhet som styrelsen
 eller ett medlemsmöte godkänner. Projektutskottet förväntas hjälpa
-viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
+vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
 **§ 25 Till övriga funktionärer hör följande**
 
@@ -282,17 +283,17 @@ viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
     söka in till den nuvarande aktuella sportklubben för Datateknologerna vid Åbo
     Akademi rf.
 
-5. **Vice värdinna**
+5. **Vice värd / värdinna**
 
     **Sammansättning**
    
-    Höstmötet kan tillsätta en (1) Vice värdinna för följande verksamhetsår.
+    Höstmötet kan tillsätta en (1) vice värd / värdinna för följande verksamhetsår.
    
     **Uppgift**
    
-    Vice värdinnan hjälper värdinnorna med diverse uppgifter som förekommer under
-    styrelseåret. Vice värdinnan kan vikariera en värdinna också om en av värdinnorna inte
-    kan delta på ett evenemang som kräver värdinnor.
+    Vice värden / värdinnan hjälper värden / värdinnorna med diverse uppgifter som förekommer under
+    styrelseåret. Vice värden / värdinnan kan vikariera en värd / värdinna också om en av värdarna / värdinnorna inte
+    kan delta på ett evenemang som kräver värdar / värdinnor.
 
 7. **TiTeenitansvarig**
 
@@ -354,6 +355,15 @@ viceordförande ordna exkursioner samt ordna föreningens företagsmässa.
 
     Ser till att Albin fungerar och ansvarar för eventuella reparationer
 
+12. **Högskolepolitiskt Ansvarig**
+
+    **Sammansättning**
+
+    Höstmötet kan tillsätta en (1) Högskolepolitiskt ansvarig för följande verksamhetsår.
+
+    **Uppgift**
+
+    Den högskolepolitiskt ansvarigas uppgift är att bevaka föreningens och dess medlemmars intressen inom frågor angående Åbo Akademis fastigheter, förenings- och studieutrymmen, utbildningslinjens kvalitet samt övriga högskolepolitiska frågor.
 
 ## KAPITEL VII – ANSLAGSTAVLOR
 
