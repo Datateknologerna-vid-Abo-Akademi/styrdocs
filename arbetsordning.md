@@ -1,9 +1,10 @@
-# ARBETSORDNING FÖR DATATEKNOLOGERNA VID ÅBO AKADEMI RF, VERSION 2.0
+﻿# ARBETSORDNING FÖR DATATEKNOLOGERNA VID ÅBO AKADEMI RF, VERSION 2.0
 
 (justerad 22 november 2019)
 (justerad 13 november 2020)
 (justerad 13 november 2023)
 (justerad 10 april 2024)
+(justerad 26 oktober 2024)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -80,8 +81,7 @@ mötesordföranden.
 
 **§ 8 Sammansättning**
 
-Styrelsen består av ordförande, vice ordförande, sekreterare, skattmästare, värd/värdinna,
-programchef, näbbansvarig och företagsförhållandeansvarig.
+Styrelsen består av ordförande, vice ordförande, sekreterare, skattmästare, programchef, källarmästare, näbbansvarig, företagsförhållandeansvarig och kommunikationsansvarig.
 
 **§ 9 Protokoll**
 
@@ -102,7 +102,6 @@ Styrelseordförande åligger att
 - övervaka att samtliga funktionärer och medlemmar fullgör sina uppgifter
 - övervaka att beslut verkställs
 - sköta kontakter utanför föreningen
-- fungera som medlem i Axel och Stinas Gamylers styrelse (AIR)
 
 **§ 12 Vice ordförande**
 
@@ -113,6 +112,7 @@ Vice ordförande åligger att
 - vid behov sköta högskolepolitiska ärenden, ifall ingen Högskolepolitiskt ansvarig väljs
 - vid behov fungera som representant i Teknologkomissionen
 - delta i ordnandet av föreningens företagsmässa
+- fungera som medlem i ÅAATK styrelse (Alumnistyrelsen för ASG och ARG)
 
 **§ 13 Sekreterare**
 
@@ -132,22 +132,23 @@ Skattmästaren åligger att
 - sammanställa budgeten
 - skriva bokslutet tillsammans med vice ordföranden
 
-**§ 15 Värd / värdinna**
-
-Värden / värdinnan åligger att
-
-- sköta logistiska frågor förknippade med fester och tillställningar, i nära samverkan med programchefen och skattmästaren
-- ansvara för renheten av kansliets matredskap inklusive mikro, kylskåp och frys, samt föreningens grill
-- sköta om påfyllning av kaffeförrådet, samt påfyllning av innehållet i frysen och kylskåpet
-
-**§ 16 Programchef**
+**§ 15 Programchef**
 
 Programchefen åligger att
 
-- organiserar föreningens fester och tillställningar
-- hålla aktiv kontakt med andra föreningar i ärenden gällande evenemang
-- sköta hemsidans evenemang och anmälningar
-- ansvara över programutskottet
+- organisera föreningens tillställningar
+- vid behov vara i kontakt med andra föreningar/företag gällande evenemang (exklusive fester) 
+- ansvara över programutskottet 
+- sköta frågor förknippade med evenemangen (exklusive fester), i samverkan med källarmästare och skattmästare
+
+**§ 16 Källarmästare**
+
+Källarmästare åligger att
+
+- organisera föreningens fester
+- hålla kontakt med andra föreningar i ärenden gällande fester
+- ansvara över sångledare, fotografianter, värdar / värdinnor
+- sköta frågor förknippade med fester, i samverkan med programchefen och skattmästaren 
 
 **§ 17 Näbbansvarig**
 
@@ -167,9 +168,18 @@ Företagsförhållandeansvarig åligger att
 - beställa halarna
 - delta i ordnandet av föreningens företagsmässa
 
+**§ 19 Kommunikationsansvarig**
+
+Kommunikationsansvarig åligger att
+
+- ansvara för våra sociala medier 
+- marknadsföra föreningens evenemang 
+- ansvara för föreningens medlemsrekrytering 
+- översätta föreningens texter 
+
 ## KAPITEL V – FRAMTIDSPLANEN
 
-**§ 19 Mål**
+**§ 20 Mål**
 
 Styrelsen upprätthåller, utvecklar och beaktar i all sin verksamhet framtidsplanen. I framtidsplanen
 formuleras föreningens strävanden på lång sikt.
@@ -178,7 +188,7 @@ Framtidsplanen kan med fördel utnyttjas i utformningen av verksamhetsplanen fö
 
 ## KAPITEL VI – FUNKTIONÄRER OCH KOMMITTÉER
 
-**§ 20 Datörer**
+**§ 21 Datörer**
 
 **Sammansättning**
 
@@ -190,7 +200,7 @@ Höstmötet tillsätter Datörer för följande år. Sammansättningen består a
 Datörerna ansvarar för föreningens datautrustning. Samt administrerar föreningens servrar
 och hemsidor.
 
-**§ 21 DaTe Idrotts Klubb**
+**§ 22 DaTe Idrotts Klubb**
 
 **Sammansättning**
 
@@ -200,7 +210,7 @@ Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (Idro
 
 De ansvarigas uppgift är att upprätthålla idrottsverksamhet inom DaTe.
 
-**§ 22 CommodoreuZkottet**
+**§ 23 CommodoreuZkottet**
 
 **Sammansättning**
 
@@ -208,9 +218,9 @@ Vårmötet tillsätter ett CommodoreuZkott för följande år. CommodoreuZkottet
 
 **Uppgift**
 
-CommodoreuZkottets uppgift är att planera och organisera nästa årsfest bankett, nachspiel samt sillfrukost.
+CommodoreuZkottets uppgift är att planera och organisera nästa årsfestbankett, nachspiel samt sillfrukost.
 
-**§ 23 Programutskottet**
+**§ 24 Programutskottet**
 
 **Sammansättning**
 
@@ -220,10 +230,10 @@ programchefen (Ordförande) samt två (2) till sex (6) medlemmar (Programmerare)
 **Uppgift**
 
 Programutskottets uppgift är att ordna program för föreningens medlemmar.
-Programutskottet förväntas ordna program regelbundet, t.ex månatligen.
+Programutskottet förväntas ordna program regelbundet, t.ex. månatligen.
 Till programutskottets uppgifter hör även att vid behov assistera i organiserande av föreningens större evenemang såsom företagsmässor, årsfester eller liknande.
 
-**§ 24 Projektgruppen**
+**§ 25 Projektgruppen**
 
 **Sammansättning**
 
@@ -237,7 +247,7 @@ Projektutskottets uppgift är att utveckla och utföra projektverksamhet som sty
 eller ett medlemsmöte godkänner. Projektutskottet förväntas hjälpa
 vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
-**§ 25 Till övriga funktionärer hör följande**
+**§ 26 Till övriga funktionärer hör följande**
 
 1. **Revisorer eller verksamhetsgranskare och deras suppleanter**
 
@@ -283,19 +293,18 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     söka in till den nuvarande aktuella sportklubben för Datateknologerna vid Åbo
     Akademi rf.
 
-5. **Vice värd / värdinna**
+5. **Värdar / värdinnor**
 
     **Sammansättning**
    
-    Höstmötet kan tillsätta en (1) vice värd / värdinna för följande verksamhetsår.
+    Höstmötet tillsätter tre (3) till fyra (4) värdar / värdinnor för följande verksamhetsår.
    
     **Uppgift**
    
-    Vice värden / värdinnan hjälper värden / värdinnorna med diverse uppgifter som förekommer under
-    styrelseåret. Vice värden / värdinnan kan vikariera en värd / värdinna också om en av värdarna / värdinnorna inte
-    kan delta på ett evenemang som kräver värdar / värdinnor.
+   Värdarna / Värdinnorna införskaffar och tillreder maten till föreningens middagar,
+samt sköter om påfyllning av kaffeförrådet, kylskåpet och dyl.
 
-7. **TiTeenitansvarig**
+6. **TiTeenitansvarig**
 
     **Sammansättning**
 
@@ -309,7 +318,7 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
     har ordnats.
 
-8. **Albins Angels Matriarkat**
+7. **Albins Angels Matriarkat**
 
     **Sammansättning**
     
@@ -321,7 +330,7 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
     regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
 
-9. **Vaalkommittén**
+8. **Vaalkommittén**
 
     **Sammansättning**
     
@@ -334,28 +343,28 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
     som ordinarie medlemmar.
 
-10. **Representanter**
+9. **Representanter**
 
     **Sammansättning**
 
-    Höstmötet tillsätter fölande representanter för följande verksamhetsår.
+    Höstmötet tillsätter följande representanter för följande verksamhetsår.
     En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech, en (1) till Tietoteekkariyhdistys ry (TTY) och en (1) person utses som TFiF-TEK föreningskontaktperson.
 
     **Uppgift**
 
-    Representanternas uppgift är att representera Datateknologerna samt utföra arbetet i den valda upgiften.
+    Representanternas uppgift är att representera Datateknologerna samt utföra arbetet i den valda uppgiften.
 
-11. **Albins Software & Services**
+10. **Albins Software & Services**
 
     **Sammansättning**
 
     Höstmötet tillsätter en (1) eller två (2) Albins Software & Services för följande verksamhetsår.
 
-    **Upggift**
+    **Uppgift**
 
     Ser till att Albin fungerar och ansvarar för eventuella reparationer
 
-12. **Högskolepolitiskt Ansvarig**
+11. **Högskolepolitiskt Ansvarig**
 
     **Sammansättning**
 
@@ -365,8 +374,21 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Den högskolepolitiskt ansvarigas uppgift är att bevaka föreningens och dess medlemmars intressen inom frågor angående Åbo Akademis fastigheter, förenings- och studieutrymmen, utbildningslinjens kvalitet samt övriga högskolepolitiska frågor.
 
+12. **Chefredaktör**
+
+    **Sammansättning**
+
+    Höstmötet tillsätter en (1) chefredaktör för följande verksamhetsår.
+
+
+    **Uppgift**
+
+    Chefredaktörens uppgift är att ansvara för att DaTes tidning kommer ut en (1) till två
+(2) gånger per år.
+
+
 ## KAPITEL VII – ANSLAGSTAVLOR
 
-**§ 26 Föreningens anslagstavlor**
+**§ 27 Föreningens anslagstavlor**
 
 Föreningens anslagstavla finns på hemsidan.
