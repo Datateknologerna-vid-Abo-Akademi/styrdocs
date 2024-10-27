@@ -89,7 +89,7 @@ Gulnäbbsmedlemmar har följande skyldigheter:
 
 **§ 6 Icke-fullständiga medlemmar**
 
-Till Icke-fullständig medlem kan antas datateknik studerande vid Åbo Akademi som inte längre är gulnäbbsmedlem men som inte har uppfyllt alla krav för att bli ordinariemedlem.
+Till Icke-fullständig medlem kan antas datateknikstuderande vid Åbo Akademi som inte längre är gulnäbbsmedlem men som inte har uppfyllt alla krav för att bli ordinarie medlem.
 
 Icke-fullständiga medlemmar äger följande rättigheter:
 
