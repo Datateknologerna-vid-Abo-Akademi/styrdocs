@@ -12,7 +12,7 @@ Antagna på föreningens grundlande möte den 24 augusti 1999
 
 (ändrade och godkändes på föreningens vårmöte 26.03.2021)
 
-(Justerade 17.11.2022)
+(justerade 17.11.2022)
 
 (justerade 15.02.2024)
 
@@ -119,7 +119,6 @@ Utbytesmedlemmar har följande skyldigheter:
 * att betala en årsavgift, vars storlek fastställs på vårmötet
 * att i föreningens namn uppträda klanderfritt
 
-
 **§ 8 Hedersmedlemmar**
 
 Till hedersmedlem kan på förslag av styrelsen kallas en person, som synnerligen handlat föreningens syften och
@@ -136,7 +135,9 @@ Stödjande medlemmar äger följande rättigheter:
 
 * att delta i föreningens verksamhet
 * yttranderätt men varken förslags- eller rösträtt på föreningens möten
+
 Stödjande medlemmar har följande skyldighet:
+
 * att betala en årsavgift, vars storlek fastställs på vårmötet
 
 **§ 10 Utträde och uteslutning av en medlem ur föreningen**
@@ -149,26 +150,24 @@ förpliktelser som medlem genom sitt inträde i föreningen har åtagit sig elle
 inom eller utom föreningen avsevärt har skadat denna eller om medlem inte längre uppfyller de villkor för
 medlemskap som nämns i föreningens stadgar.
 
-
 **§ 11 Medlemsavgiften**
 
-Vårmötet besluter om storleken av årsavgiften för påföljande verksamhetsår, vilken uppbärs av ordinarie och
-stödjande medlemmar. Storleken av den avgift som uppbärs av seniormedlemmar fastställs på föreningens
-ordinarie möte. Storleken av studietidsavgiften fastställs på föreningens ordinarie möte.
+Vårmötet besluter om storleken av årsavgiften för påföljande verksamhetsår, vilken uppbärs av ordinarie, 
+stödjande, icke-fullständiga, utbytes och senior medlemmar. Storleken av studietidsavgiften fastställs på föreningens ordinarie möte.
 
 ## KAPITEL III - STYRELSEN
 
 **§ 12 Sammansättning**
 
 Föreningens angelägenheter sköts av styrelsen till vilken hör ordförande, viceordförande, sekreterare,
-skattmästare samt av 0-6 övriga medlemmar.
+skattmästare samt 0-6 övriga medlemmar.
 
 **§ 13 Verksamhet**
 
 Ett verksamhetsår definieras som ett kalenderår. Styrelsens mandattid är ett verksamhetsår.
 Vid höstmötet utses följande verksamhetsårs styrelse.
 Styrelsen sammanträder på kallelse av ordförande, eller då denne har förhinder på kallelse av viceordförande, då
-denne anser att det behövas eller då minst hälften av styrelsemedlemmarna så kräver, under perioderna 1.1-31.
+denne anser att det behövas eller då minst hälften av styrelsemedlemmarna så kräver, under perioderna 1.1-31.1
 och 1.9-15.12 dock minst en gång på två veckor. Möteskallelsen skall vara styrelsemedlemmarna tillhanda senast
 dagen före mötet. Möteskallelsen skickas per e-post till de styrelsemedlemmar som har e-postadress, i annat fall
 används post.
@@ -194,7 +193,6 @@ arbetsordningen
 **§ 14 Räkenskapsperiod**
 
 Föreningens räkenskapsperiod är ett kalenderår.
-
 
 **§ 15 Överlämning av material**
 
