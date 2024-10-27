@@ -175,7 +175,8 @@ Kommunikationsansvarig åligger att
 - ansvara för våra sociala medier 
 - marknadsföra föreningens evenemang 
 - ansvara för föreningens medlemsrekrytering 
-- översätta föreningens texter 
+- översätta föreningens texter
+- hålla information på hemsidan uppdaterad 
 
 ## KAPITEL V – FRAMTIDSPLANEN
 
