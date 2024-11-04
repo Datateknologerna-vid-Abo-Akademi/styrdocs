@@ -110,7 +110,6 @@ Till Utbytesmedlem kan antas utbytesstuderanden vid Åbo Akademi inom ämnet inf
 Utbytesmedlemmar äger följande rättigheter:
 
 * att delta i föreningens verksamhet
-* att anta förtroendeuppdrag inom föreningen
 * att utnyttja föreningens egendom enligt för ifrågavarande egendom givna föreskrifter eller direktiv
 * att representera föreningen utåt på samtycke av styrelsen
 
