@@ -381,12 +381,20 @@ samt sköter om påfyllning av kaffeförrådet, kylskåpet och dyl.
 
     Höstmötet kan tillsätta en (1) chefredaktör för följande verksamhetsår.
 
-
     **Uppgift**
 
     Chefredaktörens uppgift är att ansvara för att DaTes tidning kommer ut en (1) till två
 (2) gånger per år.
 
+13. **Stadgeutvecklare**
+
+    **Sammansättning**
+
+    Höstmötet kan tillsätta två (2) till fyra (4) stadgeutvecklare för följande verksamhetsår.
+
+    **Uppgift**
+
+    Stadgeutvecklarna ansvarar för att föreningens stadgar, arbetsordning och framtidsplan kontinuerligt förbättras och utvecklas i enlighet med föreningen.
 
 ## KAPITEL VII – ANSLAGSTAVLOR
 
