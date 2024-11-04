@@ -5,6 +5,7 @@
 (justerad 13 november 2023)
 (justerad 10 april 2024)
 (justerad 26 oktober 2024)
+(justerad 4 november 2024)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -136,8 +137,8 @@ Skattmästaren åligger att
 
 Programchefen åligger att
 
-- ansvara över funktionärer i samband med evenemang. Till dessa funktionärer hör programutskottet, fotofjanter samt sångledare
-- ansvara över anmälningar till evenmang
+- ansvara över funktionärer i samband med evenemang. Till dessa funktionärer hör programutskottet, fotografianter samt sångledare
+- ansvara över anmälningar till evenemang
 - ansvara över bokningar av lokaler till evenemang
 - kontaktperson för föreningar inför samarbetsevenemang
 
@@ -145,8 +146,7 @@ Programchefen åligger att
 
 Källarmästare åligger att
 
-- ansvara över matlagning, dukning och liknande praktiska detaljer på sitzar
-- sköta betalningen av hyran för lokaler inför sitzar
+- ansvara över matlagning, dukning och liknande praktiska detaljer på middagar
 - ansvara över värdar / värdinnor
 - se till att föreningens utrymmen hålls representabla
 
@@ -298,12 +298,12 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     **Sammansättning**
    
-    Höstmötet tillsätter tre (3) till fyra (4) värdar / värdinnor för följande verksamhetsår.
+    Höstmötet kan tillsätta två (2) till fyra (4) värdar / värdinnor för följande verksamhetsår.
    
     **Uppgift**
    
    Värdarna / Värdinnorna införskaffar och tillreder maten till föreningens middagar,
-samt sköter om påfyllning av kaffeförrådet, kylskåpet och dyl.
+samt sköter om påfyllning av kaffeförrådet, kylskåpet och dylikt.
 
 6. **TiTeenitansvarig**
 
