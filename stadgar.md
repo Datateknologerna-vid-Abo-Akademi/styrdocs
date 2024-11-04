@@ -16,7 +16,7 @@ Antagna på föreningens grundlande möte den 24 augusti 1999
 
 (justerade 15.02.2024)
 
-(justerade 26.10.2024)
+(justerade 4.11.2024)
 
 ## KAPITEL I - FÖRENINGEN
 
