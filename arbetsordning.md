@@ -298,7 +298,7 @@ vice ordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     **Sammansättning**
    
-    Höstmötet kan tillsätta två (2) till fyra (4) värdar / värdinnor för följande verksamhetsår.
+    Höstmötet tillsätter två (2) till fyra (4) värdar / värdinnor för följande verksamhetsår.
    
     **Uppgift**
    
