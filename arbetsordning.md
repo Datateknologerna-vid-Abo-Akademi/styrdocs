@@ -349,7 +349,7 @@ samt sköter om påfyllning av kaffeförrådet, kylskåpet och dyl.
     **Sammansättning**
 
     Höstmötet tillsätter följande representanter för följande verksamhetsår.
-    En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech, en (1) till Tietoteekkariyhdistys ry (TTY) och en (1) person utses som TFiF-TEK föreningskontaktperson.
+    En (1) till två (2) till Teknologkommissionen, en (1) till TFiF:s Åboavdelningens styrelse, två till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech, en (1) till Tietoteekkariyhdistys ry (TTY), en (1) person utses som TFiF-TEK föreningskontaktperson och en (1) Teknologdopsrepresentant.
 
     **Uppgift**
 
