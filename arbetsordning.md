@@ -4,7 +4,6 @@
 (justerad 13 november 2020)
 (justerad 13 november 2023)
 (justerad 10 april 2024)
-(justerad 26 oktober 2024)
 (justerad 4 november 2024)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
