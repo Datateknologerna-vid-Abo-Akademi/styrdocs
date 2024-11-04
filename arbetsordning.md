@@ -121,7 +121,7 @@ Sekreteraren åligger att
 - föra protokoll vid möten
 - sammanställa årsberättelsen till vårmötet
 - sköta föreningens korrespondens
-- sköta föreningens interna och externa informationsverksamhet, såsom veckomejl
+- sköta föreningens interna informationsverksamhet, såsom veckomejl
 
 **§ 14 Skattmästare**
 
@@ -172,7 +172,7 @@ Företagsförhållandeansvarig åligger att
 
 Kommunikationsansvarig åligger att
 
-- ansvara för våra sociala medier 
+- ansvara för föreningens externa kommunikation, såsom sociala medier
 - marknadsföra föreningens evenemang 
 - ansvara för föreningens medlemsrekrytering 
 - översätta föreningens texter
