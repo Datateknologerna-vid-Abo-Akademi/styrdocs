@@ -136,19 +136,19 @@ Skattmästaren åligger att
 
 Programchefen åligger att
 
-- organisera föreningens tillställningar
-- vid behov vara i kontakt med andra föreningar/företag gällande evenemang (exklusive fester) 
-- ansvara över programutskottet 
-- sköta frågor förknippade med evenemangen (exklusive fester), i samverkan med källarmästare och skattmästare
+- ansvara över funktionärer i samband med evenemang. Till dessa funktionärer hör programutskottet, fotofjanter samt sångledare
+- ansvara över anmälningar till evenmang
+- ansvara över bokningar av lokaler till evenemang
+- kontaktperson för föreningar inför samarbetsevenemang
 
 **§ 16 Källarmästare**
 
 Källarmästare åligger att
 
-- organisera föreningens fester
-- hålla kontakt med andra föreningar i ärenden gällande fester
-- ansvara över sångledare, fotografianter, värdar / värdinnor
-- sköta frågor förknippade med fester, i samverkan med programchefen och skattmästaren 
+- ansvara över matlagning, dukning och liknande praktiska detaljer på sitzar
+- sköta betalningen av hyran för lokaler inför sitzar
+- ansvara över värdar / värdinnor
+- se till att föreningens utrymmen hålls representabla
 
 **§ 17 Näbbansvarig**
 
@@ -379,7 +379,7 @@ samt sköter om påfyllning av kaffeförrådet, kylskåpet och dyl.
 
     **Sammansättning**
 
-    Höstmötet tillsätter en (1) chefredaktör för följande verksamhetsår.
+    Höstmötet kan tillsätta en (1) chefredaktör för följande verksamhetsår.
 
 
     **Uppgift**
