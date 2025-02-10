@@ -14,7 +14,7 @@ Föreningens verksamhet är reglerad av föreningslagen, föreningens stadgar oc
 arbetsordning. Arbetsordningen innehåller närmare bestämmelser om föreningens
 verksamhet och stadgarnas tillämpning.
 
-## KAPITEL II – MEDLEMMAR
+## KAPITEL II – MEDLEMMAR 
 
 **§ 2 Medlemsregister**
 
