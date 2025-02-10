@@ -39,7 +39,7 @@ Andra teknologiekandidat– eller diplomingenjörsstuderande vid Åbo Akademi so
 motsvarande krav för sin ämnesförening kan direkt beviljas medlemskap efter att ha deltagit
 på ett av föreningens medlemsmöten.
 
-## KAPITEL III – MÖTEN
+## KAPITEL III – MÖTEN 
 
 **§ 4 Övriga ärenden**
 
