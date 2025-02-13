@@ -5,6 +5,7 @@
 Jämlikhetsplanen hör till föreningens regler och föreskrifter. Planen uppdateras vid behov av styrelsen utvalda trygghetspersoner.
 
 - Fastställd av Alexander Berts, Ida Wiberg och Linnéa Lehtonen den 10.4.2024.
+- Justerad 13 februari 2025. 
 
 Datateknologerna vid Åbo Akademi rf:s (DaTe) mål är att vara en jämlik och jämställd ämnesförening. DaTe förbinder sig till att säkerställa att föreningens verksamhet är öppen för alla, tillgänglig för alla samt att tillgänglighetsfrågor beaktas och diskriminerande och olämpligt beteende hanteras på ett lämpligt sätt.
 
@@ -14,7 +15,7 @@ Inget olämpligt eller ojämlikt beteende, av något slag, tolereras inom DaTes 
 
 Trakasserier är kopplade till den personliga upplevelsen hos den utsatta personen.
 
-Som medlem i föreningen förbinder man sig till att följa DaTes regler och föreskrifter, samt därmed även att agera i enlighet med jämlikhetsplanen. Även övriga deltagare på DaTes evenemang förbinder sig till att agera i enlighet med jämlikhetsplanen. DaTe har tre trygghetspersoner som sköter trakasseriärenden inom föreningen. Ombuden är i nuläget en Albins Angels matriark, föreningens gulnäbbsansvarig samt en styrelsemedlem. Verkställandet och uppföljningen av verksamheten enligt jämlikhetsplanen åligger i första hand styrelsen samt föreningens trygghetspersoner. Föreningens styrelse skall även se till att det finns möjlighet att verkställa och agera enligt planen samt även att värna om att planen följs.
+Som medlem i föreningen förbinder man sig till att följa DaTes regler och föreskrifter, samt därmed även att agera i enlighet med jämlikhetsplanen. Även övriga deltagare på DaTes evenemang förbinder sig till att agera i enlighet med jämlikhetsplanen. DaTe har tre (3) trygghetspersoner som sköter trakasseriärenden inom föreningen. Ombuden består av föreningens gulnäbbsansvarig samt två (2) andra av styrelsen utsedda medlemmar som i mån av möjlighet tillhör två olika könstillhörigheter. Verkställandet och uppföljningen av verksamheten enligt jämlikhetsplanen åligger i första hand styrelsen samt föreningens trygghetspersoner. Föreningens styrelse skall även se till att det finns möjlighet att verkställa och agera enligt planen samt även att värna om att planen följs.
 
 
 ## 2. DaTes principer för tryggare rum
