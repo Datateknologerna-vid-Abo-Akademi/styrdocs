@@ -5,6 +5,7 @@
 (justerad 13 november 2023)
 (justerad 10 april 2024)
 (justerad 4 november 2024)
+(justerad 13 februari 2025)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -14,12 +15,12 @@ Föreningens verksamhet är reglerad av föreningslagen, föreningens stadgar oc
 arbetsordning. Arbetsordningen innehåller närmare bestämmelser om föreningens
 verksamhet och stadgarnas tillämpning.
 
-## KAPITEL II – MEDLEMMAR 
+## KAPITEL II – MEDLEMMAR
 
 **§ 2 Medlemsregister**
 
 Register förs över föreningens hedersmedlemmar, seniormedlemmar, ordinarie medlemmar,
-stödjande medlemmar samt personer som tilldelats förtjänsttecken, stipendier eller övriga
+stödjande medlemmar, icke-fullständiga medlemmar samt personer som tilldelats förtjänsttecken, stipendier eller övriga
 utmärkelser. Registret kompletteras och uppdateras med information om medlemmarnas
 verksamhet inom föreningen, adresser och examina.
 
@@ -39,7 +40,7 @@ Andra teknologiekandidat– eller diplomingenjörsstuderande vid Åbo Akademi so
 motsvarande krav för sin ämnesförening kan direkt beviljas medlemskap efter att ha deltagit
 på ett av föreningens medlemsmöten.
 
-## KAPITEL III – MÖTEN 
+## KAPITEL III – MÖTEN
 
 **§ 4 Övriga ärenden**
 
@@ -204,7 +205,7 @@ och hemsidor.
 
 **Sammansättning**
 
-Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (Idrottsminister).
+Höstmötet tillsätter minst två (2) D.I.K ansvariga samt en ordförande (Idrottsminister) för följande verksamhetsår.
 
 **Uppgift**
 
@@ -237,8 +238,7 @@ Till programutskottets uppgifter hör även att vid behov assistera i organisera
 
 **Sammansättning**
 
-Höstmötet kan tillsätta en Projektgrupp för följande år och mandatperioden varar från
-januari till och med maj året efter att dess verksamhetsperiod börjat. Projektgruppen
+Höstmötet kan tillsätta en Projektgrupp för följande verksamhetsår. Projektgruppen
 består av sittande vice ordföranden (Ordförande), företagsförhållandeansvarige samt två (2) till fem (5) medlemmar (Pruppar).
 
 **Uppgift**
