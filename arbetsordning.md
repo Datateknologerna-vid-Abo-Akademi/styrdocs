@@ -215,7 +215,7 @@ De ansvarigas uppgift är att upprätthålla idrottsverksamhet inom DaTe.
 
 **Sammansättning**
 
-Vårmötet tillsätter ett CommodoreuZkott för följande år. CommodoreuZkottet består av en (1) marskalk (ordförande), en (1) vice-marskalk, en (1) nachspielansvarig samt en (1) sillfrukostansvarig.
+Vårmötet tillsätter ett CommodoreuZkott för följande år. CommodoreuZkottet består av en (1) marskalk (ordförande), en (1) vice-marskalk, en (1) nachspielansvarig samt en (1) sillfrukostansvarig. CommodoreuZkottet är funktionärer för det år som årsfesten hålls. 
 
 **Uppgift**
 
