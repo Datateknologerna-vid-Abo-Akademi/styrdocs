@@ -169,7 +169,7 @@ skattmästare samt 0-6 övriga medlemmar.
 Ett verksamhetsår definieras som ett kalenderår. Styrelsens mandattid är ett verksamhetsår.
 Vid höstmötet utses följande verksamhetsårs styrelse.
 Styrelsen sammanträder på kallelse av ordförande, eller då denne har förhinder på kallelse av viceordförande, då
-denne anser att det behövas eller då minst hälften av styrelsemedlemmarna så kräver, under perioderna 1.1-31.1
+denne anser att det behövas eller då minst hälften av styrelsemedlemmarna så kräver, under perioderna 1.1-30.4
 och 1.9-15.12 dock minst en gång på två veckor. Möteskallelsen skall vara styrelsemedlemmarna tillhanda senast
 dagen före mötet. Möteskallelsen skickas per e-post till de styrelsemedlemmar som har e-postadress, i annat fall
 används post.
