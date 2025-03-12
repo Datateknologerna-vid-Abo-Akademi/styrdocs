@@ -1,14 +1,14 @@
 ﻿# Datateknologerna vid Åbo Akademi rf stadgar
 
-Antagna på föreningens grundlande möte den 24 augusti 1999
+Antagna på föreningens konstituerande möte den 24 augusti 1999
 
-(ändrade på föreningens höstmötet 18.11.2005)
+(ändrade på föreningens höstmöte 18.11.2005)
 
 (godkändes på föreningens höstmöte 24.11.2010)
 
 (ändrade och godkändes på föreningens höstmöte 11.11.2015)
 
-(ändrade och godkändes på föreningens vårmöte 24.4.2020)
+(ändrade och godkändes på föreningens vårmöte 24.04.2020)
 
 (ändrade och godkändes på föreningens vårmöte 26.03.2021)
 
@@ -16,10 +16,11 @@ Antagna på föreningens grundlande möte den 24 augusti 1999
 
 (justerade 15.02.2024)
 
-(justerade 4.11.2024)
+(justerade 04.11.2024)
 
 (justerade 13.11.2024)
 
+(justerade xx.xx.2025)
 
 ## KAPITEL I - FÖRENINGEN
 
@@ -43,10 +44,10 @@ medlemsprylar och studiematerial. Föreningen kan grunda fonder.
 
 **§ 3 Ordinarie medlemmar**
 
-Ordinarie medlemskap kan av styrelsen på basen av skriftlig ansökan beviljas studerande inskriven för
-avläggande av teknologiekandidat- eller diplomingenjörsexamen vid Åbo Akademi.
-På basen av motiverad ansökan beviljas annan studerande vid Åbo Akademi. Ordinarie medlemmar äger
-följande rättigheter:
+Ordinarie medlemskap kan av styrelsen på basen av skriftlig ansökan beviljas studerande inskrivna för
+avläggande av teknologiekandidat- eller diplomingenjörsexamen, eller kandidatexamen i naturvetenskaper
+med huvudämnet kemi eller filosofie magisterexamen med huvudämnet kemi vid Åbo Akademi.
+Ordinarie medlemmar äger följande rättigheter:
 
 * att rösta på föreningens möten
 * att delta i föreningens verksamhet
@@ -61,7 +62,7 @@ Ordinarie medlemmar har följande skyldigheter:
 
 **§ 4 Seniormedlemmar**
 
-Föreningens möte kan till seniormedlem godkänna ordinarie medlem, som avlagt examen i datateknik vid Åbo
+Föreningens möte kan till seniormedlem godkänna tidigare ordinarie medlem, som avlagt examen i datateknik vid Åbo
 Akademi och som samtycker.
 
 Seniormedlemmar äger följande rättigheter:
@@ -72,7 +73,7 @@ Seniormedlemmar äger följande rättigheter:
 
 Seniormedlemmar har följande skyldighet:
 
-* att betala en årsavgift, vars storlek fastställs på föreningens vårmöte
+* att betala en årsavgift, vars storlek fastställs på vårmötet
 
 **§ 5 Gulnäbbsmedlemmar**
 
@@ -92,7 +93,8 @@ Gulnäbbsmedlemmar har följande skyldigheter:
 
 **§ 6 Icke-fullständiga medlemmar**
 
-Till Icke-fullständig medlem kan antas datateknikstuderande vid Åbo Akademi som inte längre är gulnäbbsmedlem men som inte har uppfyllt alla krav för att bli ordinarie medlem.
+En icke-fullständig medlem är en datateknikstuderande vid Åbo Akademi som inte längre är gulnäbbsmedlem
+men som inte har uppfyllt alla krav för att bli ordinarie medlem.
 
 Icke-fullständiga medlemmar äger följande rättigheter:
 
@@ -108,7 +110,7 @@ Icke-fullständiga medlemmar har följande skyldigheter:
 
 **§ 7 Utbytesmedlemmar**
 
-Till Utbytesmedlem kan antas utbytesstuderanden vid Åbo Akademi inom ämnet informationsteknologi.
+Till utbytesmedlem kan antas utbytesstuderanden vid Åbo Akademi inom ämnet informationsteknologi.
 
 Utbytesmedlemmar äger följande rättigheter:
 
@@ -125,7 +127,7 @@ Utbytesmedlemmar har följande skyldigheter:
 
 Till hedersmedlem kan på förslag av styrelsen kallas en person, som synnerligen handlat föreningens syften och
 strävanden till fromma.
-Om hedersmedlemskallande besluter föreningens medlemsmöte med 3/4 majoritet av avgivna röster.
+Kallandet till hedersmedlem besluter föreningens möte med tre fjärdedels (3/4) majoritet av givna röster.
 Hedersmedlemmar betalar ingen årsavgift, men äger samma rättigheter och förmåner som seniormedlemmar.
 
 **§ 9 Stödjande medlemmar**
@@ -147,37 +149,36 @@ Stödjande medlemmar har följande skyldighet:
 En medlem har rätt att utträda ur föreningen genom att skriftligen anmäla detta hos föreningens styrelse eller
 dess ordförande eller genom att vid föreningens möte anmäla om utträde för anteckning i protokollet.
 Föreningens möte kan utesluta en medlem ur föreningen om medlemmen trots påminnelse inte under
-ifrågavarande års hösttermin har betalat sin medlemsavgift eller om medlem annars har underlåtit att fullgöra de
-förpliktelser som medlem genom sitt inträde i föreningen har åtagit sig eller om medlem genom sitt beteende
-inom eller utom föreningen avsevärt har skadat denna eller om medlem inte längre uppfyller de villkor för
+ifrågavarande års hösttermin har betalat sin medlemsavgift eller om medlemmen annars har underlåtit att fullgöra de
+förpliktelser som medlemmen genom sitt inträde i föreningen har åtagit sig eller om medlemmen genom sitt beteende
+inom eller utom föreningen avsevärt har skadat denna eller om medlemmen inte längre uppfyller de villkor för
 medlemskap som nämns i föreningens stadgar.
 
-**§ 11 Medlemsavgiften**
+**§ 11 Medlemsavgifter**
 
-Vårmötet besluter om storleken av årsavgiften för påföljande verksamhetsår, vilken uppbärs av ordinarie, 
-stödjande, icke-fullständiga, utbytes och senior medlemmar. Storleken av studietidsavgiften fastställs på föreningens ordinarie möte.
+Vårmötet besluter om storleken av årsavgifter för påföljande verksamhetsår, vilka uppbärs av ordinarie,
+stödjande, icke-fullständiga, gulnäbbs-, utbytes- och seniormedlemmar.
 
 ## KAPITEL III - STYRELSEN
 
 **§ 12 Sammansättning**
 
-Föreningens angelägenheter sköts av styrelsen till vilken hör ordförande, viceordförande, sekreterare,
-skattmästare samt 0-6 övriga medlemmar.
+Föreningens angelägenheter sköts av styrelsen som består av ordförande, viceordförande, sekreterare,
+skattmästare samt noll (0) till sex (6) övriga medlemmar.
 
 **§ 13 Verksamhet**
 
 Ett verksamhetsår definieras som ett kalenderår. Styrelsens mandattid är ett verksamhetsår.
 Vid höstmötet utses följande verksamhetsårs styrelse.
 Styrelsen sammanträder på kallelse av ordförande, eller då denne har förhinder på kallelse av viceordförande, då
-denne anser att det behövas eller då minst hälften av styrelsemedlemmarna så kräver, under perioderna 1.1-31.1
-och 1.9-15.12 dock minst en gång på två veckor. Möteskallelsen skall vara styrelsemedlemmarna tillhanda senast
-dagen före mötet. Möteskallelsen skickas per e-post till de styrelsemedlemmar som har e-postadress, i annat fall
-används post.
-Styrelsen är beslutför när ordförande eller viceordförande samt minst hälften av dess övriga medlemmar är
+denne anser att det behövs eller då minst hälften av styrelsemedlemmarna så kräver. Under perioderna 1.1-31.5
+och 1.9-15.12 ska styelsen sammanträda minst en (1) gång på två (2) veckor. Möteskallelsen ska vara styrelsemedlemmarna tillhanda senast
+dagen före mötet. Möteskallelsen skickas per e-post till styrelsemedlemmarna.
+Styrelsen är beslutför när ordförande eller viceordförande samt minst hälften av resterande medlemmar är
 närvarande. Omröstningarna avgörs med enkel majoritet. Om rösterna faller jämnt avgör ordförandens röst, vid
 personval avgör lotten.
 
-Styrelsen åligger att
+Styrelsen åligger att:
 
 * leda och organisera föreningens verksamhet
 * förbereda och sammankalla föreningens möten
@@ -187,7 +188,7 @@ Styrelsen åligger att
 föreningens möte befullmäktigat styrelsen att avgöra
 * till vårmötet inlämna årsberättelse, bokslut och inventarieförteckning
 * övervaka allt som genomförs i föreningens namn
-* under sin mandattid upprätthålla, utveckla samt i all verksamhet beakta framtidsplanen, som beskrivs i
+* under sin mandattid upprätthålla, utveckla samt i all verksamhet beakta framtidsplanen som beskrivs i
 arbetsordningen
 
 ## KAPITEL IV - RÄKENSKAP OCH REVISION
@@ -198,94 +199,90 @@ Föreningens räkenskapsperiod är ett kalenderår.
 
 **§ 15 Överlämning av material**
 
-Bokslutet jämte nödvändiga handlingar och styrelsens årsberättelse skall överlämnas till revisorerna eller
-verksamhetsgranskarna senast en månad före vårmötet. Revisorerna eller verksamhetsgranskarna skall ge sitt
-utlåtande skriftligen till styrelsen senast två veckor före vårmötet.
+Bokslutet jämte nödvändiga handlingar och styrelsens årsberättelse ska överlämnas till revisorerna eller
+verksamhetsgranskarna senast en (1) månad före vårmötet. Revisorerna eller verksamhetsgranskarna ska ge sitt
+utlåtande skriftligen till styrelsen senast två (2) veckor före vårmötet.
 
 ## KAPITEL V - MÖTEN
 
 **§ 16 Föreningens möten**
 
-Föreningen håller minst två ordinarie möten om året.
-Föreningens vårmöte hålls under vårterminen och höstmöte under höstterminen på av styrelsen fastställda datum.
-Föreningens möten skall i mån av möjlighet hållas på en fysisk plats, men vid undantagstillfällen kan styrelsen
-bestämma att tillåta medlemmar att delta på distans via bestämt tekniskt hjälpmedel. Till undantagstillfällen
+Föreningen håller minst två ordinarie möten om året. Föreningens ordinarie möten är vårmötet och höstmötet.
+Vårmötet hålls under vårterminen och höstmötet under höstterminen på av styrelsen fastställda datum.
+
+Föreningens möten ska i mån av möjlighet hållas på en fysisk plats på föreningens hemort, men vid undantagstillfällen kan
+styrelsen bestämma att tillåta medlemmar att delta på distans via bestämt tekniskt hjälpmedel. Till undantagstillfällen
 räknas sådana tillfällen där restriktioner eller rekommendationer förhindrar fysiskt deltagande. Ifall
-distansdeltagande beviljas skall detta nämnas i möteskallelsen.
+distansdeltagande beviljas ska detta nämnas i möteskallelsen.
+
 Vid föreningens möten har varje röstberättigad medlem en (1) röst. Föreningens möte är beslutfört då det har
-sammankallats enligt stadgarna.
+sammankallats enligt stadgarna och då minst en tiondel (1/10) av föreningens ordinarie medlemmar är närvarande.
 Som mötets beslut gäller, om inte något annat bestäms i stadgarna, den åsikt som har understötts av mer än
 hälften (1/2) av de avgivna rösterna. Omröstningarna avgörs med enkel majoritet. Om rösterna faller jämnt avgör
 mötesordförandens röst, vid personval avgör emellertid lotten.
 
-**§ 17 Extra ordinarie möte**
-
 Extra ordinarie möte hålls då föreningens ordinarie möte så besluter eller då styrelsen anser att det finns skäl
-därtill eller då minst en tiondedel (1/10) av föreningens röstberättigade medlemmar skriftligen kräver det av
-styrelsen för ett särskilt angivet ärende. Mötet skall hållas inom fjorton dagar från den tidpunkt då kravet på
+därtill eller då minst en tiondel (1/10) av föreningens röstberättigade medlemmar skriftligen kräver det av
+styrelsen för ett särskilt angivet ärende. Mötet ska hållas inom fjorton (14) dagar från den tidpunkt då kravet på
 mötet framställts hos styrelsen.
 
-**§ 18 Kallelse till föreningens ordinarie möten**
+**§ 17 Kallelse till föreningens möten**
 
-Styrelsen skall sammankalla föreningens möten senast sju dagar före mötet genom att skicka ett kallelsebrev i
+Styrelsen ska sammankalla föreningens möten senast sju (7) dagar före mötet genom att skicka ett kallelsebrev i
 form av e-post till varje medlem som har e-postadress och genom att meddela därom på föreningens officiella
 anslagstavlor.
-Om en föreningsmedlem önskar att ett ärende skall behandlas vid föreningens ordinarie möte skall medlem
-skriftligen meddela detta till styrelsen senast tio dagar före mötet.
+Om en föreningsmedlem önskar att ett ärende ska behandlas vid föreningens möte ska medlem
+skriftligen meddela detta till styrelsen senast tio (10) dagar före mötet.
 
-**§ 19 Vårmöte**
+**§ 18 Vårmöte**
 
 Vid föreningens vårmöte behandlas följande ärenden:
 
 1. mötet öppnas
-2. val av mötesordförande, sekreterare, två protokolljusterare och vid behov två rösträknare
-3. mötets laglighet och beslutförhet konstateras
-4. föredragningslistan för mötet godkänns
-5. bokslutet, årsberättelsen och revisorernas eller verksamhetsgranskarna utlåtande presenteras och
-    årsavgifternas storlek för följande verksamhetsår fastställs
-6. beslut om fastställande av bokslutet och beviljande av ansvarsfrihet till tidigare styrelse och andra
-    ansvarsskyldiga
-7. övriga ärenden nämnda i möteskallelsen.
+2. val av mötesordförande, sekreterare, två (2) protokolljusterare och två (2) rösträknare
+3. konstaterande av mötets stadgeenliga sammankallande och beslutförhet
+4. fastställande av föredragningslistan
+5. presentation av verksamhetsberättelsen, bokslutet och revisorernas eller verksamhetsgranskarnas utlåtande
+6. fastställande av verksamhetsberättelsen och bokslutet
+7. beviljande av ansvarsfrihet för styrelsen och andra redovisningsskyldiga
+8. fastställande av årsavgifternas storlek för följande verksamhetsår
+9. övriga ärenden nämnda i möteskallelsen
+10. mötet avslutas
 
-(Om en föreningsmedlem önskar att ett ärende skall behandlas vid föreningens vårmöte skall medlem skriftligen
-meddela detta till styrelsen senast tio dagar före mötet. )
-
-**§ 20 Höstmöte**
+**§ 19 Höstmöte**
 
 Vid föreningens höstmöte behandlas följande ärenden:
 
 1. mötet öppnas
-2. val av mötesordförande, sekreterare, två protokolljusterare och vid behov två rösträknare
-3. mötets laglighet och beslutförhet konstateras
-4. föredragningslistan för mötet godkänns
-5. verksamhetsplanen samt budgeten fastställs
-6. val av ordförande, viceordförande, sekreterare, skattmästare och övriga medlemmar i styrelsen för
+2. val av mötesordförande, sekreterare, två (2) protokolljusterare och två (2) rösträknare
+3. konstaterande av mötets stadgeenliga sammankallande och beslutförhet
+4. fastställande av föredragningslistan
+5. presentation och fastställande av verksamhetsplanen och budgeten
+6. val av ordförande, viceordförande, sekreterare, skattmästare och övriga styrelsemedlemmar för
     följande verksamhetsår
 7. val av två revisorer eller verksamhetsgranskare och deras suppleanter för följande verksamhetsår
-8. övriga ärenden nämnda i möteskallelsen (behandlas övriga i möteskallelsen nämnda ärenden).
-
-(Om en föreningsmedlem önskar att ett ärende skall behandlas vid föreningens höstmöte skall medlem
-skriftligen meddela detta till styrelsen senast tio dagar före mötet. )
+8. övriga ärenden nämnda i möteskallelsen
+9. mötet avslutas
 
 ## KAPITEL VI – KURATOR
 
-**§ 21 Val av kurator**
+**§ 20 Val av kurator**
 
 Föreningens kurator väljes bland personer som vunnit lärd grad och har koppling till Åbo Akademi.
 Valet sker på höstmötet. Mandatperioden är två (2) kalenderår.
 
-**§ 22 Uppgift**
+**§ 21 Uppgift**
 
-Kuratorn ska handleda styrelsen i dess arbete och har rätt att närvara vid föreningens och styrelsens möten och där yttra sig.
+Kuratorn ska handleda styrelsen i dess arbete och har närvaro- och yttranderätt vid föreningens och styrelsens möten.
 
 ## KAPITEL VI - KOMMITTÉER, ARBETSGRUPPER OCH FUNKTIONÄRER
 
-**§ 23 Rättighet och ansvar**
+**§ 22 Rättighet och ansvar**
 
 Föreningens möte eller styrelsen kan tillsätta kommittéer, arbetsgrupper och funktionärer. Dessa är ansvariga
 inför det organ som tillsatt dem.
 
-**§ 24 Tillsättande av kommittéer och arbetsgrupper**
+**§ 23 Tillsättande av kommittéer och arbetsgrupper**
 
 Vid tillsättande av kommitté eller arbetsgrupp besluts åtminstone om:
 
@@ -297,45 +294,43 @@ Vid tillsättande av kommitté eller arbetsgrupp besluts åtminstone om:
 
 ## KAPITEL VII - STIPENDIER OCH UTMÄRKELSER
 
-**§25 Utdelning av stipendier och utmärkelser**
+**§ 24 Utdelning av stipendier och utmärkelser**
 
 Utdelning sker i enighet med bestämmelser som framgår i särskilt nämnda förordningar.
 
 ## KAPITEL VIII - SÄRSKILDA STADGANDEN
 
-**§ 26 Arbetsordningen**
+**§ 25 Arbetsordningen**
 
 I arbetsordningen ingår närmare bestämmelser om stadgarnas tillämpningar och föreningens verksamhet. Beslut
 om ändring av arbetsordningen ska fattas på föreningens möte med minst tre fjärdedels (3/4) majoritet av de
-avgivna rösterna. I arbetsordningen får ej ingå stadganden som strider mot föreningslagen eller föreningens
+givna rösterna. I arbetsordningen får det inte ingå stadganden som strider mot Finlands grundlag, föreningslagen eller föreningens
 stadgar.
 
-**§ 27 Namnteckning**
+**§ 26 Namnteckning**
 
-Föreningens namn tecknas gemensamt av två personer: ordförande alternativt viceordförande och en övrig
+Föreningens namn tecknas gemensamt av två (2) personer: ordförande eller viceordförande och en annan
 styrelsemedlem. Styrelsen kan skriftligen bevilja en ordinarie medlem fullmakt att teckna
 föreningens namn ensam.
 
-**§ 28 Ändring av stadgarna**
+**§ 27 Ändring av stadgarna**
 
-Beslut om ändring av dessa stadgar skall fattas vid två på varandra följande föreningsmöten med minst tre
-fjärdedels (3/4) majoritet av de avgivna rösterna. I möteskallelserna skall nämnas om ändring av stadgarna.
+Beslut om ändring av dessa stadgar ska fattas vid två (2) på varandra följande föreningsmöten vars mellantid är två (2)
+veckor med tre fjärdedels (3/4) majoritet. I möteskallelserna ska nämnas om ändring av stadgarna.
 
-**§ 29 Upplösning av föreningen**
+**§ 28 Upplösning av föreningen**
 
-Beslut om upplösning av föreningens ska fattas på två på varandra följande föreningsmöten vars mellantid är två
-veckor med tre fjärdedelars (3/4) majoritet av de avgivna rösterna. På det första av dessa möten bestäms hur
-föreningens tillgångar används för att främja föreningens syfte.
+Beslut om upplösning av föreningens ska fattas på två (2) på varandra följande föreningsmöten vars mellantid är två (2)
+veckor med tre fjärdedels (3/4) majoritet. På det första av dessa möten bestäms hur föreningens tillgångar används för
+att främja föreningens syfte.
 
-**§ 30 Avsättande av funktionärspost**
+**§ 29 Avsättande av förtroendevalda**
 
-Föreningens möte kan med tre fjärdedelars (3/4) majoritet avsätta styrelsemedlem eller annan anförtrodd person
-om medlem har underlåtit att fullgöra de förpliktelser som medlem åtagit sig.
+Föreningens möte kan med tre fjärdedels (3/4) majoritet avsätta styrelsemedlem eller annan förtroendevald person
+om medlemmen har underlåtit att fullgöra de förpliktelser som medlemmen åtagit sig.
 
-**§ 31 Ersättande av funktionärspost**
+**§ 30 Ersättande av förtroendevalda**
 
-Ifall en styrelsemedlem eller annan anförtrodd person av vägande skäl tvingas avsluta sitt arbete inom
+Ifall en styrelsemedlem eller annan förtroendevald person av vägande skäl tvingas avsluta sitt arbete inom
 föreningen, kan denne ersättas genom val vid föreningens möte enligt de bestämmelser som gäller för
-ifrågavarande funktionärspost. Postens fullföljande koordineras tills dess av styrelsen.
-
-
+ifrågavarande funktionärspost. Funktionärspostens fullföljande koordineras tills dess av styrelsen.
