@@ -156,8 +156,7 @@ medlemskap som nämns i föreningens stadgar.
 
 **§ 11 Medlemsavgifter**
 
-Vårmötet besluter om storleken av årsavgifter för påföljande verksamhetsår, vilka uppbärs av ordinarie,
-stödjande, icke-fullständiga, gulnäbbs-, utbytes- och seniormedlemmar.
+Vårmötet besluter om storleken av årsavgifter för påföljande verksamhetsår.
 
 ## KAPITEL III - STYRELSEN
 
@@ -172,7 +171,7 @@ Ett verksamhetsår definieras som ett kalenderår. Styrelsens mandattid är ett 
 Vid höstmötet utses följande verksamhetsårs styrelse.
 Styrelsen sammanträder på kallelse av ordförande, eller då denne har förhinder på kallelse av viceordförande, då
 denne anser att det behövs eller då minst hälften av styrelsemedlemmarna så kräver. Under perioderna 1.1-31.5
-och 1.9-15.12 ska styelsen sammanträda minst en (1) gång på två (2) veckor. Möteskallelsen ska vara styrelsemedlemmarna tillhanda senast
+och 1.9-15.12 ska styrelsen sammanträda minst en (1) gång på två (2) veckor. Möteskallelsen ska vara styrelsemedlemmarna tillhanda senast
 dagen före mötet. Möteskallelsen skickas per e-post till styrelsemedlemmarna.
 Styrelsen är beslutför när ordförande eller viceordförande samt minst hälften av resterande medlemmar är
 närvarande. Omröstningarna avgörs med enkel majoritet. Om rösterna faller jämnt avgör ordförandens röst, vid
