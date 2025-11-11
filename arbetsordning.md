@@ -8,6 +8,7 @@
 (justerad 13 februari 2025)
 (justerad 10 april 2025)
 (justerad 22 oktober 2025)
+(justerad 11 november 2025)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -349,7 +350,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     **Sammansättning**
 
     Höstmötet tillsätter följande representanter för följande verksamhetsår.
-    En (1) till två (2) till Teknologkommissionen, två (2) till fyra (4) till De Yngres Råd (DYR), en (1) till FiTech, en (1) till Tietoteekkariyhdistys ry (TTY), en (1) person utses som TFiF-TEK föreningskontaktperson och en (1) Teknologdopsrepresentant.
+    En (1) till två (2) till Teknologkommissionen, två (2) till fyra (4) till De Yngres Råd (DYR), en (1) till Tietoteekkariyhdistys ry (TTY), en (1) person utses som TFiF-TEK föreningskontaktperson och en (1) Teknologdopsrepresentant.
     Till varje jämnt år väljs en (1) representant till TFiF:s Åboavdelnings styrelse.
 
     **Uppgift**
