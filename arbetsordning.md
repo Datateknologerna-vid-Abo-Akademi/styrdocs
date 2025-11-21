@@ -7,6 +7,7 @@
 (justerad 4 november 2024)
 (justerad 13 februari 2025)
 (justerad 10 april 2025)
+(justerad 22 oktober 2025)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -40,7 +41,7 @@ nämnda kraven även uppfylla följande krav:
 Andra teknologiekandidat– eller diplomingenjörsstuderande, eller studerande inskrivna för avläggande
 av kandidatexamen i naturvetenskaper med huvudämnet kemi eller filosofie magisterexamen med
 huvudämnet kemi vid Åbo Akademi, som utfört motsvarande krav för sin ämnesförening kan direkt beviljas
-medlemskap efter att ha deltagit på ett av föreningens medlemsmöten.
+medlemskap efter att ha deltagit på ett (1) föreningsmöte.
 
 ## KAPITEL III – MÖTEN
 
