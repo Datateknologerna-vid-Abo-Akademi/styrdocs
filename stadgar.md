@@ -20,7 +20,7 @@ Antagna på föreningens konstituerande möte den 24 augusti 1999
 
 (justerade 13.11.2024)
 
-(justerade xx.xx.2025)
+(justerade 11.11.2025)
 
 ## KAPITEL I - FÖRENINGEN
 
