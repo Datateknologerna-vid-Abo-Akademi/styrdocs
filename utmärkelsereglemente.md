@@ -1,6 +1,7 @@
 # Datateknologernas utmärkelsereglemente
 
 *(Antaget på medlemsmötet 8.4.2022)*
+*(Justerat på föreningsmötet 22.10.2025)*
 
 ## Kapitel I - Allmänna bestämmelser
 
@@ -25,3 +26,11 @@ Halvledarmedaljen instiftades år 2018 av Deprecated, en grupp äldre teknologer
 I enlighet med föreningens stadgar, kapitel II, paragraf 6, kan föreningen anta hedersmedlemmar. Utöver kallelsen tilldelas nya hedersmedlemmar vid föreningens följande jubileumsårsfest en utmärkelse i form av en hedersmedlemspin. Denna pin består av Albin omringad av ett kugghjul. Endast personer utnämnda till hedersmedlemmar i föreningen äger rätten att bära denna pin.
 
 ![Symbolen på Hederspinnens åtsida](images/hederspin.png)
+
+#### § 4 Pris-ett
+
+Pris-Ett tilldelas en (1) ung medlem i Datateknologerna vid Åbo Akademi rf som redan från början av sina studier har visat ett särskilt stort engagemang i föreningens verksamhet. Genom detta pris vill styrelsen uppmärksamma och uttrycka sin uppskattning för medlemmens insatser och engagemang för föreningens gemenskap och utveckling. Pris-Ett kan inte tilldelas en styrelsemedlem.
+
+Beslut om mottagare av Pris-Ett fattas av föreningens styrelse. Priset delas därefter ut vid föreningens årsfest av den föregående mottagaren eller, om hen inte kan närvara, av föreningens ordförande.
+
+<img src="images/pris-ett.png" width="65%" alt="Fotogrfi av Pris-ett">
