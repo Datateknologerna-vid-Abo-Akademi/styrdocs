@@ -34,3 +34,16 @@ Pris-Ett tilldelas en (1) ung medlem i Datateknologerna vid Åbo Akademi rf som 
 Beslut om mottagare av Pris-Ett fattas av föreningens styrelse. Priset delas därefter ut vid föreningens årsfest av den föregående mottagaren eller, om hen inte kan närvara, av föreningens ordförande.
 
 <img src="images/pris-ett.png" width="65%" alt="Fotogrfi av Pris-ett">
+
+#### § 5 Kompilatormedaljen
+
+Kompilatormedaljen kan tilldelas en (1) till fem (5) tredje årets studerande eller äldre som
+genom sitt agerande stärkt föreningens anda och gemenskap. Utmärkelsen ges till personer
+vars insatser inte grundar sig på ett förtroendeuppdrag, utan som genom sitt engagemang
+förenat medlemmar, vårdat traditioner, byggt broar mellan generationer eller på annat sätt
+bidragit till sammanhållningen inom föreningen.
+
+Kompilatormedaljen utdelas årligen på föreningens årsfest av tidigare mottagare i samråd
+med styrelsen.
+
+<img src="images/kompilatormedaljen.png" width="70%" alt="Symbolen på kompilatormedaljens åtsida">
