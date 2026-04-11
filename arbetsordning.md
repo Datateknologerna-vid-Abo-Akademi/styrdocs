@@ -398,6 +398,16 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Stadgeutvecklarna ansvarar för att föreningens stadgar, arbetsordning och framtidsplan kontinuerligt förbättras och utvecklas i enlighet med föreningen.
 
+14. **Tutorer**
+
+    **Sammansättning**
+
+    Styrelsen tillsätter dem av Åbo Akademi valda tutorer för datateknik till funktionärer. Tutorerna väljs på våren och uppfyller sin uppgift till verksamhetsårets slut.
+
+    **Uppgift**
+
+    Tutorernas uppgift under ledning av Gulnäbbsansvarige är att hålla program för gulnäbbarna under studieorienteringsveckan samt gulishösten. Tutorerna fungerar även som kontaktpersoner och informatörer för gulnäbbarna.
+
 ## KAPITEL VII – ANSLAGSTAVLOR
 
 **§ 27 Föreningens anslagstavlor**
