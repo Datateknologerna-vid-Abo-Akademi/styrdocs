@@ -2,6 +2,7 @@
 
 *(Antaget på medlemsmötet 8.4.2022)*
 *(Justerat på föreningsmötet 22.10.2025)*
+*(Justerat på föreningsmötet 4.8.2026)*
 
 ## Kapitel I - Allmänna bestämmelser
 
@@ -47,3 +48,12 @@ Kompilatormedaljen utdelas årligen på föreningens årsfest av tidigare mottag
 med styrelsen.
 
 <img src="images/kompilatormedaljen.png" width="70%" alt="Symbolen på kompilatormedaljens åtsida">
+
+#### § 6 Styrelsepins
+
+Personer som är invalda eller varit invalda i föreningens styrelse äger rätten att införskaffa en (1) styrelsepin under sin livstid. Styrelsepinsen fungerar som ett tecken på
+förtroendeuppdraget inom föreningen.
+
+Endast sittande samt tidigare styrelsemedlemmar i föreningen äger rätten att bära denna pin.
+
+<img src="images/styrelsepins.png" width="70%" alt="Symbolen på styrelsepinsens åtsida">
