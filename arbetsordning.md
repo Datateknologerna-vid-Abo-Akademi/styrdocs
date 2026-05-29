@@ -9,6 +9,7 @@
 (justerad 10 april 2025)
 (justerad 22 oktober 2025)
 (justerad 11 november 2025)
+(justerad 8 april 2026)
 
 ## KAPITEL I – ALLMÄNNA BESTÄMMELSER
 
@@ -161,6 +162,7 @@ Näbbansvarige åligger att:
 - hjälpa de övriga styrelsemedlemmarna
 - ansvara över tentarkivet
 - bedriva tutorverksamheten
+- ställa upp som trygghetsperson
 
 **§ 18 Företagsförhållandeansvarig**
 
@@ -241,14 +243,13 @@ Till Programutskottets uppgifter hör även att vid behov assistera i organisera
 
 **Sammansättning**
 
-Höstmötet tillsätter en Projektgrupp för följande verksamhetsår. Projektgruppen
-består av styrelsens viceordföranden (Ordförande), företagsförhållandeansvarige samt två (2) till fem (5) pruppar (Medlemmar).
+Höstmötet tillsätter en Projektgrupp för följande verksamhetsår. Projektgruppen består av styrelsens viceordförande (Ordförande), företagsförhållandeansvarige, en (1)
+designansvarig samt två (2) till fem (5) övriga pruppar (Medlemmar).
 
 **Uppgift**
 
-Projektutskottets uppgift är att utveckla och utföra projektverksamhet som styrelsen
-eller ett föreningsmöte godkänner. Projektutskottet förväntas hjälpa
-viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
+Projektutskottets uppgift är att utveckla och utföra projektverksamhet som styrelsen eller ett föreningsmöte godkänner. Projektutskottet förväntas hjälpa viceordföranden
+ordna exkursioner samt ordna föreningens företagsmässa.
 
 **§ 26 Övriga funktionärer och utskott**
 
@@ -303,36 +304,30 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     **Uppgift**
 
-    Värdarna/värdinnorna införskaffar och tillreder maten till föreningens middagar,
-    samt sköter om påfyllning av kaffeförrådet, kylskåpet och dylikt.
+    Värdarna/värdinnorna införskaffar och tillreder maten till föreningens middagar, samt sköter om påfyllning av kaffeförrådet, kylskåpet och dylikt.
 
-6. **TiTeenitansvarig**
+6. **Titeenit**
 
     **Sammansättning**
 
-    Vårmötet kan tillsätta en (1) TiTeenitansvarig för följande TiTeenien taistot.
+    Höstmötet kan tillsätta en (1) Titeenitansvarig samt fem (5) till sju (7) medlemmar till arbetsgruppen för följande Titeenien Taistot. Ifall Titeenien Taistot inom två (2)      år kommer att äga rum i Åbo, bör höstmötet tillsätta minst en (1) ansvarig.
 
     **Uppgift**
+    
+    DaTes Titeenitansvarige med hjälp av arbetsgruppen ordnar och planerar nästa Titeenien Taistot som hålls i Åbo. Planeringen görs tillsammans med Digits Titeenitansvarige.       Ifall Titeenit inte är i Åbo koordinerar Titeenitansvarige tillsammans med Digits Titeenitansvarige resan till Titeenien Taistot. Mandatperioden är tills Titeenien Taistot      har ordnats. Titeenitansvarige samt arbetsgruppen är funktionärer tills det år som Titeenien Taistot hålls.
 
-    DaTes TiTeenitansvarige sammansätter en arbetsgrupp och planerar nästa års
-    TiTeenien taistot tillsammans med Digits TiTeenitansvarige ifall TiTeenit ordnas i Åbo
-    följande år. Annars koordinerar TiTeenitansvarige tillsammans med Digits
-    TiTeenitansvarige resan till TiTeenien taistot. Mandatperioden är tills TiTeenien taistot
-    har ordnats. TiTeenitansvarige är funktionär för det år som TiTeenien taistot hålls.
-
-7. **Albins Angels Matriarkat**
+8. **Albins Angels Matriarkat**
 
     **Sammansättning**
 
-    Höstmötet tillsätter Albins Angels Matriarker för följande verksamhetsår. Sammansättningen
-    består av en (1) eller två (2) Matriarker.
+    Höstmötet tillsätter Albins Angels Matriarker för följande verksamhetsår. Sammansättningen består av en (1) eller två (2) Matriarker.
 
     **Uppgift**
 
     Matriarkernas uppgift är att upprätthålla Albins Angels verksamhet genom att ordna
     regelbundna träffar för Albins Angels samt publicera AA-uppdateringar.
 
-8. **Vaalkommittén**
+9. **Vaalkommittén**
 
     **Sammansättning**
 
@@ -345,7 +340,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     alla funktionärsposter. Vaalkommitténs medlemmar har samma rätt att ställa upp i val
     som ordinarie medlemmar.
 
-9. **Representanter**
+10. **Representanter**
 
     **Sammansättning**
 
@@ -357,7 +352,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Representanternas uppgift är att representera DaTe samt utföra arbetet i den valda uppgiften.
 
-10. **Albins Software & Services**
+11. **Albins Software & Services**
 
     **Sammansättning**
 
@@ -367,7 +362,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Ser till att Albin fungerar och ansvarar för eventuella reparationer.
 
-11. **Högskolepolitiskt ansvarig**
+12. **Högskolepolitiskt ansvarig**
 
     **Sammansättning**
 
@@ -377,7 +372,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Den högskolepolitiskt ansvariges uppgift är att bevaka föreningens och dess medlemmars intressen inom frågor angående Åbo Akademis fastigheter, förenings- och studieutrymmen, utbildningslinjens kvalitet samt övriga högskolepolitiska frågor.
 
-12. **Chefredaktör**
+13. **Chefredaktör**
 
     **Sammansättning**
 
@@ -388,7 +383,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
     Chefredaktörens uppgift är att ansvara för att DaTes tidning publiceras en (1) till två
     (2) gånger per år.
 
-13. **Stadgeutvecklare**
+14. **Stadgeutvecklare**
 
     **Sammansättning**
 
@@ -398,7 +393,7 @@ viceordföranden ordna exkursioner samt ordna föreningens företagsmässa.
 
     Stadgeutvecklarna ansvarar för att föreningens stadgar, arbetsordning och framtidsplan kontinuerligt förbättras och utvecklas i enlighet med föreningen.
 
-14. **Tutorer**
+15. **Tutorer**
 
     **Sammansättning**
 
@@ -428,10 +423,14 @@ Ifall ingen funktionär har möjlighet att representera föreningen, och styrels
 
 Föreningen kan ersätta kostnader för årsfestgåvor med upp till 25 euro per årsfest. Ersättningen för årsfestgåvan kan, med styrelsens godkännande, överskrida 25 euro om gåvan ges till en förening som firar jubileumsår.
 
+Ersättningsansökan ska vara inlämnad under samma verksamhetsår som årsfestgåvan har getts.
+
 **§ 30 Ersättning för representationskostnader**
 
-Styrelsemedlemmar kan alltid ansöka om ersättning för deltagaravgifter, i enlighet med budgeten.
-Funktionärer kan ansöka om ersättning för deltagaravgifter en (1) gång per verksamhetsår.
-Övriga medlemmar kan ansöka om ersättning för deltagaravgifter en (1) gång per verksamhetsår.
+Styrelsemedlemmar kan alltid ansöka om ersättning för deltagaravgifter, i enlighet med budgeten. Funktionärer kan ansöka om ersättning för deltagaravgifter en (1) gång per
+verksamhetsår. Övriga medlemmar kan ansöka om ersättning för deltagaravgifter en (1) gång per verksamhetsår.
 
-Om en (1) medlem representerar på en årsfest kan föreningen ersätta hälften (1/2) av en (1) deltagaravgift. Om två (2) eller flera medlemmar representerar på en årsfest, kan föreningen ersätta priset på en (1) deltagaravgift som delas jämnt bland representanterna. I båda fallen ersätts max 50 euro per person per årsfest.
+Om en (1) medlem representerar på en årsfest kan föreningen ersätta hälften (1/2) av en (1) deltagaravgift. Om två (2) eller flera medlemmar representerar på en årsfest, kan
+föreningen ersätta priset på en (1) deltagaravgift som delas jämnt bland representanterna. I båda fallen ersätts max 50 euro per person per årsfest.
+
+Representationsersättningen ska vara inlämnad under samma verksamhetsår som representationen har skett.
